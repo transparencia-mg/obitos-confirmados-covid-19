@@ -69,13 +69,14 @@
   "title": "obitos confirmados por COVID-19",
   "homepage": "www.dados.mg.gov.br/dataset/obitos-confirmados-covid19-mg.csv",
 "commit":"",
-"sources:[
-{"name": "Boletim Epidemiológico Coronavírus",
- "path": "http://coronavirus.saude.mg.gov.br/boletim-acesso-rapido"
-},
-{"name": "Painel de Monitoramento Informe Epidemiológico Coronavírus",
- "path": "http://coronavirus.saude.mg.gov.br/painel-de-monitoramento"
-},
+"sources":[
+  {
+  "name": "Boletim Epidemiológico Coronavírus",
+  "path": "http://coronavirus.saude.mg.gov.br/boletim-acesso-rapido"
+  },
+  {"name": "Painel de Monitoramento Informe Epidemiológico Coronavírus",
+  "path": "http://coronavirus.saude.mg.gov.br/painel-de-monitoramento"
+  },
 ],  
 "contributors": [
   {
