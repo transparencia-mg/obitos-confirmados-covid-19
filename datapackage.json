@@ -68,6 +68,7 @@
   "name": "obitos-confirmados-por-covid-19",
   "title": "obitos confirmados por COVID-19",
   "homepage": "www.dados.mg.gov.br/dataset/obitos-confirmados-covid19-mg.csv",
+"update":"true",
 "commit":"",
 "sources":[
   {
