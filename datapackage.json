@@ -1,0 +1,101 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "obitos-COVID",
+      "path": "data/obitos-confirmados-covid19-mg.csv",
+      "profile": "tabular-data-resource",
+      "resourceType": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Paciente",
+            "type": "number",
+            "format": "default",
+            "title": "Paciente",
+            "description": "Cada paciente é identificado com um único número para preservação de sua identidade"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "format": "default",
+            "title": "Sexo",
+            "description": "Masculino ou feminino"
+          },
+          {
+            "name": "Idade",
+            "type": "number",
+            "format": "default",
+            "title": "Idade",
+            "description": "Idade do paciente na data de óbito"
+          },
+          {
+            "name": "Município de Residência",
+            "type": "string",
+            "format": "default",
+            "title": "Município de residência",
+            "description": "Município do Estado de Minas Gerais onde residia o paciente que veio a óbito"
+          },
+          {
+            "name": "Data do óbito",
+            "type": "number",
+            "format": "default",
+            "title": "Data do óbito",
+            "description": "Data do óbito, no formato YYYY-MM-DD."
+          },
+          {
+            "name": "Comorbidade",
+            "type": "string",
+            "format": "default",
+            "title": "Comorbidade",
+            "description": "Presença de doenças preexistentes/ comorbidades (diabetes, hipertensão, etc.)"
+          },
+          {
+            "name": "DATA_ATUALIZACAO",
+            "type": "string",
+            "format": "default",
+            "title": "Data de atualização",
+            "description": "Data de upload do arquivo"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "COVID-19",
+    "coronavirus"
+  ],
+  "name": "obitos-confirmados-por-covid-19",
+  "title": "obitos confirmados por COVID-19",
+  "homepage": "www.dados.mg.gov.br/dataset/obitos-confirmados-covid19-mg.csv",
+"commit":"",
+"sources:[
+{"name": "Boletim Epidemiológico Coronavírus",
+ "path": "http://coronavirus.saude.mg.gov.br/boletim-acesso-rapido"
+},
+{"name": "Painel de Monitoramento Informe Epidemiológico Coronavírus",
+ "path": "http://coronavirus.saude.mg.gov.br/painel-de-monitoramento"
+},
+],  
+"contributors": [
+  {
+  "title": "Diretoria de Transparência Ativa",
+  "path": "http://cge.mg.gov.br/a-cge/quem-e-quem/subcontroladoria-de-transparencia-e-integridade",
+  "role": "publisher",
+  "email": "transparencia@cge.mg.gov.br"
+  },
+  {
+  "title": "COES Coronavírus Secretaria de Estado de Saúde de Minas Gerais",
+  "path": "http://coronavirus.saude.mg.gov.br/",
+  "role": "author",
+  "email": "coes.corona@saude.mg.gov.br"
+  }
+  ],
+  "licenses": [
+  {
+  "name": "CC-BY-SA-4.0",
+  "title": "Creative Commons Attribution Share-Alike 4.0",
+  "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+ ]
+}
