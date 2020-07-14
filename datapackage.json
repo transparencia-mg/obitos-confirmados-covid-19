@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "obitos-COVID",
-      "path": "data/obitos-confirmados-covid19-mg.csv",
+      "path": "http://www.transparencia.dadosabertos.mg.gov.br/dataset/d869e025-9a83-4c64-8d3a-20238786279a/resource/53d59da0-479c-4cd3-b783-30779fe6534c/download/obitosconfirmadoscovid19mg.csv",
       "profile": "tabular-data-resource",
       "resourceType": "text/csv",
       "schema": {
