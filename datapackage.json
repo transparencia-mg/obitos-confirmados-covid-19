@@ -68,27 +68,5 @@
   ],
   "name": "obitos-confirmados-covid-19",
   "title": "obitos confirmados por COVID-19",
-  "homepage": "www.dados.mg.gov.br/dataset/obitos-confirmados-covid19-mg.csv",
-"update":"true",
-"contributors": [
-  {
-  "title": "Diretoria de Transparência Ativa",
-  "path": "http://cge.mg.gov.br/a-cge/quem-e-quem/subcontroladoria-de-transparencia-e-integridade",
-  "role": "publisher",
-  "email": "transparencia@cge.mg.gov.br"
-  },
-  {
-  "title": "COES Coronavírus Secretaria de Estado de Saúde de Minas Gerais",
-  "path": "http://coronavirus.saude.mg.gov.br/",
-  "role": "author",
-  "email": "coes.corona@saude.mg.gov.br"
-  }
-  ],
-  "licenses": [
-  {
-  "name": "CC-BY-SA-4.0",
-  "title": "Creative Commons Attribution Share-Alike 4.0",
-  "path": "https://creativecommons.org/licenses/by-sa/4.0/"
-  }
- ]
+"update":"true"
 }
