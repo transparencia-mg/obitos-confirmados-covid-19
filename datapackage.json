@@ -9,42 +9,42 @@
       "schema": {
         "fields": [
           {
-            "name": "Paciente",
+            "name": "PACIENTE",
             "type": "number",
             "format": "default",
             "title": "Paciente",
             "description": "Cada paciente é identificado com um único número para preservação de sua identidade"
           },
           {
-            "name": "Sexo",
+            "name": "SEXO",
             "type": "string",
             "format": "default",
             "title": "Sexo",
             "description": "Masculino ou feminino"
           },
           {
-            "name": "Idade",
+            "name": "IDADE",
             "type": "number",
             "format": "default",
             "title": "Idade",
             "description": "Idade do paciente na data de óbito"
           },
           {
-            "name": "Município de Residência",
+            "name": "MUNICIPIO_RESIDENCIA",
             "type": "string",
             "format": "default",
             "title": "Município de residência",
             "description": "Município do Estado de Minas Gerais onde residia o paciente que veio a óbito"
           },
           {
-            "name": "Data do óbito",
+            "name": "DATA_OBITO",
             "type": "number",
             "format": "default",
             "title": "Data do óbito",
             "description": "Data do óbito, no formato YYYY-MM-DD."
           },
           {
-            "name": "Comorbidade",
+            "name": "COMORBIDADE",
             "type": "string",
             "format": "default",
             "title": "Comorbidade",
