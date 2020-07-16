@@ -5,7 +5,6 @@
       "name": "obitos-confirmados-covid-19",
       "path": "data/obitos-confirmados-covid-19.csv",
       "profile": "tabular-data-resource",
-      "resourceType": "text/csv",
       "schema": {
         "fields": [
           {
@@ -70,5 +69,7 @@
   ],
   "name": "obitos-confirmados-covid-19",
   "title": "Óbitos confirmados por COVID-19",
-  "update": "true"
+  "description": "Contém arquivos com o resumo diário dos óbitos ocorridos em Minas Gerais em decorrência da COVID-19.",
+  "private": "false",
+  "state": "active"
 }
