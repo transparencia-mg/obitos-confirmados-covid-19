@@ -10,7 +10,7 @@
         "fields": [
           {
             "name": "PACIENTE",
-            "type": "number",
+            "type": "integer",
             "format": "default",
             "title": "Paciente",
             "description": "Cada paciente é identificado com um único número para preservação de sua identidade"
@@ -24,7 +24,7 @@
           },
           {
             "name": "IDADE",
-            "type": "number",
+            "type": "integer",
             "format": "default",
             "title": "Idade",
             "description": "Idade do paciente na data de óbito"
