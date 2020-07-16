@@ -2,9 +2,14 @@
   "profile": "tabular-data-package",
   "resources": [
     {
+      "profile": "tabular-data-resource",
       "name": "obitos-confirmados-covid-19",
       "path": "data/obitos-confirmados-covid-19.csv",
-      "profile": "tabular-data-resource",
+      "title": "Óbitos confirmados por COVID-19",
+      "description": "Contém o resumo diário dos óbitos ocorridos em Minas Gerais em decorrência da COVID-19.",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -60,6 +65,9 @@
         "missingValues": [
           "NA"
         ]
+     },
+      "dialect": {
+      "delimiter": ","
       }
     }
   ],
@@ -69,7 +77,7 @@
   ],
   "name": "obitos-confirmados-covid-19",
   "title": "Óbitos confirmados por COVID-19",
-  "description": "Contém arquivos com o resumo diário dos óbitos ocorridos em Minas Gerais em decorrência da COVID-19.",
+  "description": "Contém arquivo com o resumo diário dos óbitos ocorridos em Minas Gerais em decorrência da COVID-19.",
   "private": "false",
   "state": "active"
 }
