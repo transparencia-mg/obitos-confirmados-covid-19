@@ -58,7 +58,9 @@
             "description": "Data de upload do arquivo"
           }
         ],
-        "missingValues": ["NA"]
+        "missingValues": [
+          "NA"
+        ]
       }
     }
   ],
@@ -68,5 +70,5 @@
   ],
   "name": "obitos-confirmados-covid-19",
   "title": "Óbitos confirmados por COVID-19",
-"update":"true"
+  "update": "true"
 }
