@@ -38,7 +38,7 @@
           },
           {
             "name": "DATA_OBITO",
-            "type": "number",
+            "type": "date",
             "format": "default",
             "title": "Data do óbito",
             "description": "Data do óbito, no formato YYYY-MM-DD."
@@ -52,7 +52,7 @@
           },
           {
             "name": "DATA_ATUALIZACAO",
-            "type": "string",
+            "type": "date",
             "format": "default",
             "title": "Data de atualização",
             "description": "Data de upload do arquivo"
