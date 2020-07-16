@@ -57,7 +57,8 @@
             "title": "Data de atualização",
             "description": "Data de upload do arquivo"
           }
-        ]
+        ],
+        "missingValues": ["NA"]
       }
     }
   ],
