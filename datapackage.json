@@ -53,13 +53,6 @@
             "format": "default",
             "title": "Comorbidade",
             "description": "Presença de doenças preexistentes/ comorbidades (diabetes, hipertensão, etc.)"
-          },
-          {
-            "name": "DATA_ATUALIZACAO",
-            "type": "date",
-            "format": "default",
-            "title": "Data de atualização",
-            "description": "Data de upload do arquivo"
           }
         ],
         "missingValues": [
