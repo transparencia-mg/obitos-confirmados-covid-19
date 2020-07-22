@@ -1,11 +1,11 @@
 library(dplyr)
 
-purrr::walk(list.files("scripts/lib/", full.names = TRUE), source)
+source("scripts/lib/utils.R")
 
 #======================================================================
 # config
 path <- "data-raw/OBITOS_CONF_COVID-19_MG.xlsx"
-output <- "data/obitos-confirmados-covid-19.csv"
+output <- jsonlite::read_json("datapackage.json")$resources[[1]]$path
 #======================================================================
 
 obitos_confirmados_cge <- read(path) %>% recode()
