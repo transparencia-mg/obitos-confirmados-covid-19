@@ -31,7 +31,7 @@ read <- function(path, range) {
 recode <- function(x) {
   
   return <- x %>% 
-    mutate(DATA_OBITO = lubridate::as_date(DATA_OBITO))
+    dplyr::mutate(DATA_OBITO = lubridate::as_date(DATA_OBITO))
   
   return
   
