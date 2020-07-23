@@ -1443,725 +1443,797 @@
 1442;F; 78;Além Paraíba;2020-06-18;SIM
 1443;M; 62;Além Paraíba;2020-06-29;NÃO
 1444;F; 81;Além Paraíba;2020-06-24;SIM
-1445;F; 60;Além Paraíba;2020-06-21;NÃO
-1446;F; 70;Além Paraíba;2020-06-14;SIM
-1447;M; 59;Além Paraíba;2020-07-02;SIM
-1448;F; 84;Santo Antônio do Aventureiro;2020-06-29;SIM
-1449;M; 69;Estrela Dalva;2020-06-28;SIM
-1450;F; 70;Além Paraíba;2020-07-08;SIM
-1451;F; 70;Leopoldina;2020-07-07;Não informado
-1452;M; 77;Palmópolis;2020-07-07;NÃO
-1453;F; 90;Uberaba;2020-06-25;SIM
-1454;M; 73;Delta;2020-06-28;SIM
-1455;M; 91;Uberlândia;2020-07-08;SIM
-1456;M; 90;Montes Claros;2020-07-06;SIM
-1457;F; 74;Matias Barbosa;2020-07-01;SIM
-1458;M; 86;Juiz de Fora;2020-07-02;SIM
-1459;F; 66;Juiz de Fora;2020-07-02;SIM
-1460;F; 60;Juiz de Fora;2020-07-04;SIM
-1461;F; 88;Juiz de Fora;2020-07-05;SIM
-1462;F; 85;Juiz de Fora;2020-07-02;SIM
-1463;M; 38;Juiz de Fora;2020-07-07;SIM
-1464;F; 86;Juiz de Fora;2020-07-05;SIM
-1465;M; 45;Juiz de Fora;2020-07-07;SIM
-1466;F; 66;Poços de Caldas;2020-07-07;SIM
-1467;F; 70;Timóteo;2020-06-17;SIM
-1468;F; 90;Timóteo;2020-07-08;SIM
-1469;F; 72;Caratinga;2020-07-07;SIM
-1470;F; 74;Jesuânia;2020-07-08;SIM
-1471;F; 75;São Geraldo;2020-07-08;SIM
-1472;M; 76;Paracatu;2020-07-08;SIM
-1473;F; 91;Barbacena;2020-06-26;SIM
-1474;F; 60;Ouro Branco;2020-07-03;NÃO
-1475;M; 53;Ponto dos Volantes;2020-07-07;NÃO
-1476;M; 62;Belo Horizonte;2020-07-04;SIM
-1477;M; 41;Belo Horizonte;2020-07-05;SIM
-1478;F; 68;Belo Horizonte;2020-06-30;SIM
-1479;F; 93;Belo Horizonte;2020-06-28;SIM
-1480;M; 67;Belo Horizonte;2020-07-06;SIM
-1481;F; 66;Belo Horizonte;2020-07-01;SIM
-1482;M; 80;Belo Horizonte;2020-06-27;SIM
-1483;F; 82;Belo Horizonte;2020-07-03;SIM
-1484;F; 82;Belo Horizonte;2020-07-05;SIM
-1485;M; 99;Belo Horizonte;2020-07-07;SIM
-1486;F; 85;Belo Horizonte;2020-07-07;SIM
-1487;F; 89;Belo Horizonte;2020-07-05;SIM
-1488;M; 62;Belo Horizonte;2020-07-03;SIM
-1489;F; 74;Belo Horizonte;2020-07-01;SIM
-1490;M; 60;Belo Horizonte;2020-07-03;SIM
-1491;M; 78;Belo Horizonte;2020-07-04;SIM
-1492;F; 79;Belo Horizonte;2020-07-02;SIM
-1493;F; 63;Belo Horizonte;2020-07-03;SIM
-1494;F; 74;Belo Horizonte;2020-07-07;SIM
-1495;F; 73;Belo Horizonte;2020-07-06;SIM
-1496;F; 39;Belo Horizonte;2020-06-28;SIM
-1497;M; 63;Belo Horizonte;2020-06-29;SIM
-1498;F; 70;Belo Horizonte;2020-07-07;SIM
-1499;M; 60;Três Marias;2020-07-07;NÃO
-1500;M; 74;Jequitibá;2020-07-05;SIM
-1501;M; 61;Paraisópolis;2020-06-27;SIM
-1502;F; 86;Martins Soares;2020-07-09;SIM
-1503;M; 76;Espera Feliz;2020-07-07;SIM
-1504;M; 68;Belo Horizonte;2020-06-13;SIM
-1505;F; 83;Belo Horizonte;2020-06-27;SIM
-1506;M; 79;Belo Horizonte;2020-06-14;SIM
-1507;M; 59;Delta;2020-07-09;SIM
-1508;M; 51;Uberaba;2020-07-09;SIM
-1509;M; 63;Bom Despacho;2020-07-05;SIM
-1510;M; 54;Campo Belo;2020-07-06;SIM
-1511;F; 90;Candeias;2020-07-03;SIM
-1512;F; 67;Lagoa da Prata;2020-07-08;SIM
-1513;M; 76;Martinho Campos;2020-07-06;SIM
-1514;M; 68;Itaúna;2020-07-04;SIM
-1515;F; 44;Itatiaiuçu;2020-07-04;SIM
-1516;M; 22;Itatiaiuçu;2020-07-06;NÃO
-1517;F; 77;Teófilo Otoni;2020-06-26;SIM
-1518;F; 68;Teófilo Otoni;2020-06-27;Não informado
-1519;F; 79;Águas Formosas;2020-07-06;SIM
-1520;M; 85;Águas Formosas;2020-07-01;SIM
-1521;M; 82;Espinosa;2020-07-09;SIM
-1522;M; 75;Espinosa;2020-05-17;SIM
-1523;M; 72;Rio Pardo de Minas;2020-07-09;SIM
-1524;M; 72;Alpinópolis;2020-07-07;SIM
-1525;M; 62;Ipatinga;2020-07-06;SIM
-1526;M; 67;Caratinga;2020-07-08;SIM
-1527;M; 83;Coronel Fabriciano;2020-07-09;SIM
-1528;F; 85;Ipatinga;2020-06-29;SIM
-1529;F; 68;Ipatinga;2020-07-08;SIM
-1530;F; 54;Coronel Fabriciano;2020-07-09;SIM
-1531;M; 67;Araguari;2020-07-08;Não informado
-1532;M; 73;Araguari;2020-07-08;SIM
-1533;F; 82;Uberlândia;2020-07-09;SIM
-1534;F; 93;São João Evangelista;2020-06-30;SIM
-1535;M; 69;Sobrália;2020-05-30;NÃO
-1536;M; 63;Sabará;2020-07-03;SIM
-1537;F; 89;Contagem;2020-07-03;SIM
-1538;M; 84;Contagem;2020-07-08;SIM
-1539;M; 73;Contagem;2020-07-08;SIM
-1540;F; 68;Vespasiano;2020-07-06;SIM
-1541;M; 86;Contagem;2020-06-02;SIM
-1542;F; 36;Ouro Preto;2020-06-16;SIM
-1543;M; 58;Ibirité;2020-06-15;SIM
-1544;M; 72;Contagem;2020-05-29;SIM
-1545;M; 68;Salinas;2020-07-01;SIM
-1546;M; 65;Santa Luzia;2020-06-21;SIM
-1547;F; 64;Mirabela;2020-05-18;SIM
-1548;M; 63;Itapagipe;2020-06-27;SIM
-1549;M; 84;Frutal;2020-07-09;NÃO
-1550;M; 73;Santa Juliana;2020-07-09;SIM
-1551;M; 77;Uberaba;2020-07-10;SIM
-1552;M; 75;Joanésia;2020-07-09;SIM
-1553;F; 66;Coronel Fabriciano;2020-07-10;SIM
-1554;M; 77;Coronel Fabriciano;2020-07-03;SIM
-1555;M; 53;Timóteo;2020-07-08;Não informado
-1556;F; 71;Belo Oriente;2020-07-09;SIM
-1557;M; 67;Caratinga;2020-07-09;NÃO
-1558;M; 58;Belmiro Braga;2020-07-08;SIM
-1559;M; 68;Juiz de Fora;2020-07-09;NÃO
-1560;M; 81;Matias Barbosa;2020-07-09;SIM
-1561;M; 85;Juiz de Fora;2020-07-08;SIM
-1562;F; 90;Ouro Preto;2020-07-08;SIM
-1563;M; 64;Contagem;2020-07-09;SIM
-1564;M; 65;Contagem;2020-07-09;SIM
-1565;F; 92;Matozinhos;2020-06-28;SIM
-1566;M; 86;Esmeraldas;2020-07-10;SIM
-1567;M; 66;Juatuba;2020-07-03;SIM
-1568;F; 73;Central de Minas;2020-07-02;NÃO
-1569;M; 37;Santa Maria do Suaçuí;2020-07-02;Não informado
-1570;M; 62;Governador Valadares;2020-07-03;SIM
-1571;F; 74;Governador Valadares;2020-07-03;SIM
-1572;F; 80;Uberlândia;2020-06-09;SIM
-1573;M; 72;Uberlândia;2020-06-16;SIM
-1574;M; 56;Conceição dos Ouros;2020-07-10;SIM
-1575;F; 72;Pouso Alegre;2020-07-10;SIM
-1576;M; 87;Inconfidentes;2020-07-09;SIM
-1577;F; 61;Belo Horizonte;2020-07-04;SIM
-1578;M; 81;Belo Horizonte;2020-06-25;SIM
-1579;M; 56;Belo Horizonte;2020-07-02;NÃO
-1580;M; 68;Belo Horizonte;2020-06-25;SIM
-1581;F; 79;Belo Horizonte;2020-07-04;SIM
-1582;M; 90;Belo Horizonte;2020-06-22;SIM
-1583;M; 72;Belo Horizonte;2020-06-28;SIM
-1584;M; 63;Belo Horizonte;2020-07-04;SIM
-1585;M; 81;Belo Horizonte;2020-07-03;SIM
-1586;M; 81;Belo Horizonte;2020-07-05;SIM
-1587;M; 79;Belo Horizonte;2020-06-30;SIM
-1588;M; 82;Belo Horizonte;2020-06-27;SIM
-1589;F; 55;Belo Horizonte;2020-07-02;SIM
-1590;F; 69;Belo Horizonte;2020-06-27;SIM
-1591;M; 64;Belo Horizonte;2020-06-29;SIM
-1592;F; 85;Belo Horizonte;2020-07-02;SIM
-1593;F; 59;Belo Horizonte;2020-07-09;SIM
-1594;M; 73;Belo Horizonte;2020-07-01;SIM
-1595;M; 49;Belo Horizonte;2020-07-07;SIM
-1596;M; 55;Belo Horizonte;2020-06-29;SIM
-1597;M; 81;Belo Horizonte;2020-07-04;NÃO
-1598;F; 78;Delta;2020-07-11;SIM
-1599;M; 57;Ipatinga;2020-07-10;NÃO
-1600;M; 84;Ipatinga;2020-07-06;NÃO
-1601;M; 88;Braúnas;2020-07-11;SIM
-1602;M; 61;Governador Valadares;2020-07-05;Não informado
-1603;M; 60;Governador Valadares;2020-07-04;SIM
-1604;F; 86;Governador Valadares;2020-07-05;SIM
-1605;F; 77;Governador Valadares;2020-07-04;Não informado
-1606;M; 82;Janaúba;2020-07-11;SIM
-1607;M; 60;Uberlândia;2020-07-12;SIM
-1608;F; 68;Uberlândia;2020-07-12;SIM
-1609;M; 72;Araguari;2020-07-12;SIM
-1610;M; 47;Contagem;2020-06-28;SIM
-1611;M; 90;Lagoa Dourada;2020-07-10;SIM
-1612;M; 72;Araguari;2020-07-11;SIM
-1613;M; 89;Uberaba;2020-07-11;SIM
-1614;F; 88;Pirapetinga;2020-07-10;SIM
-1615;F; 54;Leopoldina;2020-07-08;Não informado
-1616;M; 81;Leopoldina;2020-07-09;Não informado
-1617;M; 67;Argirita;2020-06-26;Não informado
-1618;F; 65;Tupaciguara;2020-06-14;SIM
-1619;M; 83;Uberlândia;2020-06-16;SIM
-1620;M; 80;Araguari;2020-06-09;SIM
-1621;M; 69;Divinópolis;2020-07-03;SIM
-1622;F; 69;Divinópolis;2020-07-05;SIM
-1623;M; 64;Itapecerica;2020-07-05;SIM
-1624;F; 78;Itaúna;2020-07-04;SIM
-1625;F; 89;São Sebastião do Paraíso;2020-07-09;NÃO
-1626;M; 68;Lavras;2020-07-12;SIM
-1627;F; 66;Lavras;2020-07-11;SIM
-1628;F; 79;Alfenas;2020-07-12;SIM
-1629;F; 64;Uberlândia;2020-07-12;SIM
-1630;M; 98;Uberlândia;2020-07-12;SIM
-1631;F; 90;Uberlândia;2020-07-12;SIM
-1632;F; 56;Juiz de Fora;2020-07-12;SIM
-1633;F; 90;Mar de Espanha;2020-07-04;SIM
-1634;F; 54;Timóteo;2020-07-03;SIM
-1635;M; 47;Caratinga;2020-07-04;Não informado
-1636;F; 62;Timóteo;2020-07-04;SIM
-1637;M; 76;Coronel Fabriciano;2020-07-09;NÃO
-1638;F; 46;Japonvar;2020-07-09;Não informado
-1639;M; 87;Araguari;2020-07-12;SIM
-1640;F; 60;Araguari;2020-07-12;SIM
-1641;F; 87;Governador Valadares;2020-07-06;SIM
-1642;F; 75;Governador Valadares;2020-07-07;NÃO
-1643;F; 38;Itanhomi;2020-07-06;SIM
-1644;M;103;Pirapora;2020-07-11;SIM
-1645;M; 63;Buritizeiro;2020-07-12;SIM
-1646;M; 67;Betim;2020-07-07;SIM
-1647;F; 84;Betim;2020-07-07;SIM
-1648;M; 56;Brumadinho;2020-07-01;SIM
-1649;M; 58;Brumadinho;2020-07-06;SIM
-1650;M; 35;Contagem;2020-07-07;SIM
-1651;M; 72;Contagem;2020-07-07;SIM
-1652;M; 29;Contagem;2020-07-07;SIM
-1653;F; 97;Pedro Leopoldo;2020-07-08;SIM
-1654;M; 46;Pedro Leopoldo;2020-07-03;SIM
-1655;F; 79;Ribeirão das Neves;2020-05-30;SIM
-1656;M; 78;Ribeirão das Neves;2020-05-31;SIM
-1657;M; 57;Ribeirão das Neves;2020-05-31;SIM
-1658;M; 73;Ribeirão das Neves;2020-07-04;SIM
-1659;F; 45;Ribeirão das Neves;2020-06-22;SIM
-1660;M; 89;Ribeirão das Neves;2020-07-01;SIM
-1661;M; 68;Ribeirão das Neves;2020-06-29;SIM
-1662;M; 84;Ribeirão das Neves;2020-06-18;SIM
-1663;M; 67;Ribeirão das Neves;2020-06-30;SIM
-1664;M; 66;Ribeirão das Neves;2020-07-05;NÃO
-1665;F; 73;Barbacena;2020-07-12;SIM
-1666;F; 80;Igarapé;2020-07-12;NÃO
-1667;M; 68;Ibirité;2020-07-11;NÃO
-1668;M; 84;Ibirité;2020-07-11;NÃO
-1669;F; 58;Betim;2020-07-11;SIM
-1670;F; 76;Betim;2020-07-08;SIM
-1671;M; 90;João Monlevade;2020-07-12;SIM
-1672;M; 81;Belo Horizonte;2020-07-02;Não informado
-1673;M; 67;Belo Horizonte;2020-07-08;SIM
-1674;M; 78;Belo Horizonte;2020-07-11;SIM
-1675;F; 72;Belo Horizonte;2020-07-08;SIM
-1676;F;101;Belo Horizonte;2020-07-01;SIM
-1677;F; 72;Belo Horizonte;2020-07-12;Não informado
-1678;F; 80;Belo Horizonte;2020-07-12;Não informado
-1679;M; 68;Belo Horizonte;2020-07-10;Não informado
-1680;M; 60;Belo Horizonte;2020-07-11;Não informado
-1681;F; 82;Belo Horizonte;2020-06-24;SIM
-1682;F; 89;Belo Horizonte;2020-07-10;Não informado
-1683;M; 86;Belo Horizonte;2020-07-11;SIM
-1684;M; 67;Belo Horizonte;2020-07-11;Não informado
-1685;M; 83;Belo Horizonte;2020-06-24;Não informado
-1686;F; 95;Belo Horizonte;2020-07-12;SIM
-1687;F; 61;Muriaé;2020-07-08;SIM
-1688;M; 42;Conceição das Alagoas;2020-07-11;SIM
-1689;F; 73;São Geraldo;2020-06-10;SIM
-1690;M; 59;Ubá;2020-06-23;SIM
-1691;F; 94;Tabuleiro;2020-07-08;SIM
-1692;F; 36;Matias Barbosa;2020-07-04;SIM
-1693;M; 47;Juiz de Fora;2020-07-10;SIM
-1694;F; 84;Juiz de Fora;2020-07-10;SIM
-1695;M; 59;Juiz de Fora;2020-07-09;SIM
-1696;F; 56;Juiz de Fora;2020-07-11;SIM
-1697;F; 29;Juiz de Fora;2020-07-12;SIM
-1698;M; 55;Juiz de Fora;2020-07-10;SIM
-1699;M; 66;Juiz de Fora;2020-07-12;SIM
-1700;F; 77;Juiz de Fora;2020-07-13;SIM
-1701;M; 75;Ubá;2020-05-22;SIM
-1702;M; 38;Salinas;2020-07-09;Não informado
-1703;F; 67;Salinas;2020-07-09;SIM
-1704;M; 91;Taiobeiras;2020-07-11;Não informado
-1705;M; 48;Montes Claros;2020-07-13;Não informado
-1706;M; 85;Montes Claros;2020-07-10;Não informado
-1707;F; 97;Montes Claros;2020-07-11;SIM
-1708;M; 81;Uberlândia;2020-07-13;SIM
-1709;M; 84;Uberlândia;2020-07-13;SIM
-1710;M; 58;Uberlândia;2020-07-13;NÃO
-1711;M; 46;Araguari;2020-07-14;SIM
-1712;M; 76;São João do Oriente;2020-07-13;SIM
-1713;M; 84;Coronel Fabriciano;2020-07-12;SIM
-1714;M; 65;Dom Cavati;2020-07-12;Não informado
-1715;M; 81;Coronel Fabriciano;2020-07-10;NÃO
-1716;M; 80;Araguari;2020-07-13;SIM
-1717;F; 70;Sete Lagoas;2020-07-12;SIM
-1718;M; 40;Medina;2020-06-27;NÃO
-1719;M; 47;Jacinto;2020-07-10;NÃO
-1720;F; 90;Unaí;2020-07-10;SIM
-1721;M; 49;Campos Gerais;2020-07-09;NÃO
-1722;M; 84;Jeceaba;2020-07-12;SIM
-1723;M; 85;Caranaíba;2020-07-08;SIM
-1724;F; 52;Congonhas;2020-07-04;NÃO
-1725;M; 67;Betim;2020-07-07;SIM
-1726;M; 68;Contagem;2020-07-10;NÃO
-1727;M; 49;Contagem;2020-07-07;SIM
-1728;F; 72;Contagem;2020-07-10;SIM
-1729;F; 52;Contagem;2020-07-10;SIM
-1730;F; 48;Contagem;2020-07-08;SIM
-1731;F; 84;Contagem;2020-07-10;SIM
-1732;M; 55;Ibirité;2020-07-08;SIM
-1733;F; 60;Ibirité;2020-07-13;SIM
-1734;F; 79;Ouro Preto;2020-07-12;SIM
-1735;M; 85;Sabará;2020-07-13;SIM
-1736;M; 45;Belo Horizonte;2020-07-05;SIM
-1737;F; 63;Belo Horizonte;2020-07-13;SIM
-1738;M; 65;Belo Horizonte;2020-07-09;SIM
-1739;F; 89;Belo Horizonte;2020-07-07;SIM
-1740;M; 57;Belo Horizonte;2020-07-09;SIM
-1741;M; 85;Belo Horizonte;2020-07-11;SIM
-1742;F; 57;Belo Horizonte;2020-07-04;SIM
-1743;F; 84;Belo Horizonte;2020-07-10;SIM
-1744;F; 78;Belo Horizonte;2020-07-10;SIM
-1745;F; 75;Belo Horizonte;2020-07-08;SIM
-1746;M; 88;Belo Horizonte;2020-07-08;SIM
-1747;M; 73;Manhuaçu;2020-07-13;NÃO
-1748;M; 74;Santa Margarida;2020-07-12;SIM
-1749;M; 51;Muriaé;2020-07-05;SIM
-1750;M; 67;Muriaé;2020-07-02;SIM
-1751;M; 56;Muriaé;2020-07-04;SIM
-1752;M; 79;Pedra Azul;2020-07-10;SIM
-1753;F; 89;Almenara;2020-07-10;SIM
-1754;M; 77;Almenara;2020-07-12;SIM
-1755;M; 68;Medina;2020-06-26;SIM
-1756;F; 68;Felisburgo;2020-07-03;SIM
-1757;M; 38;Jordânia;2020-07-11;NÃO
-1758;F; 47;Lajinha;2020-07-14;SIM
-1759;M; 50;Formiga;2020-07-08;SIM
-1760;M; 73;Campo Belo;2020-07-03;SIM
-1761;M; 83;Campo Belo;2020-07-08;SIM
-1762;F; 73;Cláudio;2020-07-03;SIM
-1763;M; 78;Papagaios;2020-07-10;SIM
-1764;M; 70;Uberlândia;2020-07-14;SIM
-1765;F; 80;Uberlândia;2020-07-15;SIM
-1766;M; 81;Uberlândia;2020-07-15;SIM
-1767;M; 70;Toledo;2020-06-13;SIM
-1768;M;103;Borda da Mata;2020-07-06;SIM
-1769;M; 64;Outros Estados;2020-07-08;SIM
-1770;M; 92;Borda da mata;2020-07-09;SIM
-1771;F; 76;Congonhal;2020-07-13;SIM
-1772;M; 66;Poços de Caldas;2020-07-13;SIM
-1773;F; 57;Outros Estados;2020-07-14;SIM
-1774;M; 79;Carmo do Paranaíba;2020-07-05;SIM
-1775;F; 62;Guaranésia;2020-07-13;Não informado
-1776;F; 91;Nanuque;2020-07-11;SIM
-1777;M; 52;Nanuque;2020-07-10;Não informado
-1778;F; 78;Teófilo Otoni;2020-07-11;SIM
-1779;M; 78;Teófilo Otoni;2020-07-13;SIM
-1780;F; 85;Espinosa;2020-07-11;SIM
-1781;M; 66;Coronel Fabriciano;2020-06-25;Não informado
-1782;F; 56;Ipatinga;2020-07-11;SIM
-1783;M; 46;Ipatinga;2020-07-11;SIM
-1784;M; 73;Timóteo;2020-07-14;SIM
-1785;M; 70;Boa Esperança;2020-07-08;SIM
-1786;F; 87;Lavras;2020-07-14;SIM
-1787;F; 77;São Joaquim de Bicas;2020-07-13;SIM
-1788;F; 70;Sarzedo;2020-07-12;SIM
-1789;M; 78;Caeté;2020-07-13;SIM
-1790;M; 77;Betim;2020-07-12;SIM
-1791;F; 70;Betim;2020-07-13;SIM
-1792;F; 30;Betim;2020-07-08;NÃO
-1793;M; 54;Contagem;2020-06-23;SIM
-1794;F; 31;Contagem;2020-07-03;SIM
-1795;F; 79;Buritis;2020-07-12;SIM
-1796;F; 51;Belo Horizonte;2020-07-08;SIM
-1797;M; 45;Belo Horizonte;2020-07-07;NÃO
-1798;F; 79;Belo Horizonte;2020-06-29;SIM
-1799;M; 70;Belo Horizonte;2020-07-10;SIM
-1800;F; 80;Belo Horizonte;2020-07-11;SIM
-1801;M; 54;Belo Horizonte;2020-07-12;SIM
-1802;F; 83;Belo Horizonte;2020-07-09;SIM
-1803;M; 88;Belo Horizonte;2020-07-12;SIM
-1804;M; 66;Belo Horizonte;2020-07-13;SIM
-1805;M; 89;Belo Horizonte;2020-07-08;SIM
-1806;F; 83;Belo Horizonte;2020-07-10;SIM
-1807;M; 51;Belo Horizonte;2020-07-11;SIM
-1808;M; 70;Belo Horizonte;2020-07-12;SIM
-1809;M; 77;Belo Horizonte;2020-07-05;SIM
-1810;M; 67;Belo Horizonte;2020-06-30;SIM
-1811;M; 56;Belo Horizonte;2020-07-10;SIM
-1812;M; 56;Belo Horizonte;2020-07-08;SIM
-1813;F; 74;Belo Horizonte;2020-07-09;SIM
-1814;F; 77;Belo Horizonte;2020-07-03;NÃO
-1815;F; 74;Belo Horizonte;2020-07-09;SIM
-1816;M; 62;Belo Horizonte;2020-07-13;SIM
-1817;M; 89;Belo Horizonte;2020-07-07;SIM
-1818;M; 54;Belo Horizonte;2020-07-13;SIM
-1819;F; 86;Piranga;2020-06-20;SIM
-1820;M; 59;Muriaé;2020-07-13;SIM
-1821;F; 45;Miradouro;2020-06-29;NÃO
-1822;F; 50;Muriaé;2020-06-29;SIM
-1823;M; 41;Buritizeiro;2020-07-15;NÃO
-1824;M; 41;Santa Juliana;2020-07-15;SIM
-1825;M; 36;Uberaba;2020-07-14;Não informado
-1826;F; 31;Uberaba;2020-07-14;SIM
-1827;F; 57;Iturama;2020-07-16;SIM
-1828;F; 74;Manhuaçu;2020-07-07;SIM
-1829;M; 61;Muriaé;2020-06-25;SIM
-1830;M; 71;Santa Rita de Minas;2020-07-12;SIM
-1831;M; 70;Ipatinga;2020-07-14;SIM
-1832;M; 73;Coronel Fabriciano;2020-07-15;Não informado
-1833;M; 55;Ipatinga;2020-07-12;NÃO
-1834;M; 74;Santana do Paraíso;2020-07-15;SIM
-1835;F; 59;Pouso Alegre;2020-07-14;SIM
-1836;M; 52;Pouso Alegre;2020-07-16;SIM
-1837;M; 75;Montes Claros;2020-07-14;SIM
-1838;M; 43;Fruta de Leite;2020-07-14;SIM
-1839;M; 34;Lambari;2020-07-08;SIM
-1840;F; 69;Varginha;2020-07-13;SIM
-1841;M; 63;Uberlândia;2020-07-15;SIM
-1842;F; 78;Uberlândia;2020-07-15;SIM
-1843;M; 54;Uberlândia;2020-07-15;SIM
-1844;M; 54;Uberlândia;2020-07-16;SIM
-1845;M; 60;Santa Vitória;2020-07-16;SIM
-1846;F; 97;Curvelo;2020-07-14;SIM
-1847;M; 77;Curvelo;2020-07-14;NÃO
-1848;F; 84;Juiz de Fora;2020-07-10;SIM
-1849;F; 99;Juiz de Fora;2020-07-14;SIM
-1850;M; 53;Juiz de Fora;2020-07-13;SIM
-1851;F; 43;Juiz de Fora;2020-07-14;SIM
-1852;M; 83;Campo Belo;2020-07-13;SIM
-1853;M; 76;Candeias;2020-07-12;SIM
-1854;F; 75;Carmópolis de Minas;2020-07-07;SIM
-1855;M; 48;Outros Estados;2020-07-10;NÃO
-1856;F; 67;Nova Serrana;2020-07-10;SIM
-1857;M; 59;Conceição do Mato Dentro;2020-07-15;SIM
-1858;F; 43;Governador Valadares;2020-07-02;SIM
-1859;F; 85;Fernandes Tourinho;2020-07-02;SIM
-1860;M; 84;Central de Minas;2020-07-03;SIM
-1861;M; 73;Alfenas;2020-07-13;SIM
+1445;F; 70;Além Paraíba;2020-06-14;SIM
+1446;M; 59;Além Paraíba;2020-07-02;SIM
+1447;F; 84;Santo Antônio do Aventureiro;2020-06-29;SIM
+1448;M; 69;Estrela Dalva;2020-06-28;SIM
+1449;F; 70;Além Paraíba;2020-07-08;SIM
+1450;F; 70;Leopoldina;2020-07-07;Não informado
+1451;M; 77;Palmópolis;2020-07-07;NÃO
+1452;F; 90;Uberaba;2020-06-25;SIM
+1453;M; 73;Delta;2020-06-28;SIM
+1454;M; 91;Uberlândia;2020-07-08;SIM
+1455;M; 90;Montes Claros;2020-07-06;SIM
+1456;F; 74;Matias Barbosa;2020-07-01;SIM
+1457;M; 86;Juiz de Fora;2020-07-02;SIM
+1458;F; 66;Juiz de Fora;2020-07-02;SIM
+1459;F; 60;Juiz de Fora;2020-07-04;SIM
+1460;F; 88;Juiz de Fora;2020-07-05;SIM
+1461;F; 85;Juiz de Fora;2020-07-02;SIM
+1462;M; 38;Juiz de Fora;2020-07-07;SIM
+1463;F; 86;Juiz de Fora;2020-07-05;SIM
+1464;M; 45;Juiz de Fora;2020-07-07;SIM
+1465;F; 66;Poços de Caldas;2020-07-07;SIM
+1466;F; 70;Timóteo;2020-06-17;SIM
+1467;F; 90;Timóteo;2020-07-08;SIM
+1468;F; 72;Caratinga;2020-07-07;SIM
+1469;F; 74;Jesuânia;2020-07-08;SIM
+1470;F; 75;São Geraldo;2020-07-08;SIM
+1471;M; 76;Paracatu;2020-07-08;SIM
+1472;F; 91;Barbacena;2020-06-26;SIM
+1473;F; 60;Ouro Branco;2020-07-03;NÃO
+1474;M; 53;Ponto dos Volantes;2020-07-07;NÃO
+1475;M; 62;Belo Horizonte;2020-07-04;SIM
+1476;M; 41;Belo Horizonte;2020-07-05;SIM
+1477;F; 68;Belo Horizonte;2020-06-30;SIM
+1478;F; 93;Belo Horizonte;2020-06-28;SIM
+1479;M; 67;Belo Horizonte;2020-07-06;SIM
+1480;F; 66;Belo Horizonte;2020-07-01;SIM
+1481;M; 80;Belo Horizonte;2020-06-27;SIM
+1482;F; 82;Belo Horizonte;2020-07-03;SIM
+1483;F; 82;Belo Horizonte;2020-07-05;SIM
+1484;M; 99;Belo Horizonte;2020-07-07;SIM
+1485;F; 85;Belo Horizonte;2020-07-07;SIM
+1486;F; 89;Belo Horizonte;2020-07-05;SIM
+1487;M; 62;Belo Horizonte;2020-07-03;SIM
+1488;F; 74;Belo Horizonte;2020-07-01;SIM
+1489;M; 60;Belo Horizonte;2020-07-03;SIM
+1490;M; 78;Belo Horizonte;2020-07-04;SIM
+1491;F; 79;Belo Horizonte;2020-07-02;SIM
+1492;F; 63;Belo Horizonte;2020-07-03;SIM
+1493;F; 74;Belo Horizonte;2020-07-07;SIM
+1494;F; 73;Belo Horizonte;2020-07-06;SIM
+1495;F; 39;Belo Horizonte;2020-06-28;SIM
+1496;M; 63;Belo Horizonte;2020-06-29;SIM
+1497;F; 70;Belo Horizonte;2020-07-07;SIM
+1498;M; 60;Três Marias;2020-07-07;NÃO
+1499;M; 74;Jequitibá;2020-07-05;SIM
+1500;M; 61;Paraisópolis;2020-06-27;SIM
+1501;F; 86;Martins Soares;2020-07-09;SIM
+1502;M; 76;Espera Feliz;2020-07-07;SIM
+1503;M; 68;Belo Horizonte;2020-06-13;SIM
+1504;F; 83;Belo Horizonte;2020-06-27;SIM
+1505;M; 79;Belo Horizonte;2020-06-14;SIM
+1506;M; 59;Delta;2020-07-09;SIM
+1507;M; 51;Uberaba;2020-07-09;SIM
+1508;M; 63;Bom Despacho;2020-07-05;SIM
+1509;M; 54;Campo Belo;2020-07-06;SIM
+1510;F; 90;Candeias;2020-07-03;SIM
+1511;F; 67;Lagoa da Prata;2020-07-08;SIM
+1512;M; 76;Martinho Campos;2020-07-06;SIM
+1513;M; 68;Itaúna;2020-07-04;SIM
+1514;F; 44;Itatiaiuçu;2020-07-04;SIM
+1515;M; 22;Itatiaiuçu;2020-07-06;NÃO
+1516;F; 77;Teófilo Otoni;2020-06-26;SIM
+1517;F; 68;Teófilo Otoni;2020-06-27;Não informado
+1518;F; 79;Águas Formosas;2020-07-06;SIM
+1519;M; 85;Águas Formosas;2020-07-01;SIM
+1520;M; 82;Espinosa;2020-07-09;SIM
+1521;M; 75;Espinosa;2020-05-17;SIM
+1522;M; 72;Rio Pardo de Minas;2020-07-09;SIM
+1523;M; 72;Alpinópolis;2020-07-07;SIM
+1524;M; 62;Ipatinga;2020-07-06;SIM
+1525;M; 67;Caratinga;2020-07-08;SIM
+1526;M; 83;Coronel Fabriciano;2020-07-09;SIM
+1527;F; 85;Ipatinga;2020-06-29;SIM
+1528;F; 68;Ipatinga;2020-07-08;SIM
+1529;F; 54;Coronel Fabriciano;2020-07-09;SIM
+1530;M; 67;Araguari;2020-07-08;Não informado
+1531;M; 73;Araguari;2020-07-08;SIM
+1532;F; 82;Uberlândia;2020-07-09;SIM
+1533;F; 93;São João Evangelista;2020-06-30;SIM
+1534;M; 69;Sobrália;2020-05-30;NÃO
+1535;M; 63;Sabará;2020-07-03;SIM
+1536;F; 89;Contagem;2020-07-03;SIM
+1537;M; 84;Contagem;2020-07-08;SIM
+1538;M; 73;Contagem;2020-07-08;SIM
+1539;F; 68;Vespasiano;2020-07-06;SIM
+1540;M; 86;Contagem;2020-06-02;SIM
+1541;F; 36;Ouro Preto;2020-06-16;SIM
+1542;M; 58;Ibirité;2020-06-15;SIM
+1543;M; 72;Contagem;2020-05-29;SIM
+1544;M; 68;Salinas;2020-07-01;SIM
+1545;M; 65;Santa Luzia;2020-06-21;SIM
+1546;F; 64;Mirabela;2020-05-18;SIM
+1547;M; 63;Itapagipe;2020-06-27;SIM
+1548;M; 84;Frutal;2020-07-09;NÃO
+1549;M; 73;Santa Juliana;2020-07-09;SIM
+1550;M; 77;Uberaba;2020-07-10;SIM
+1551;M; 75;Joanésia;2020-07-09;SIM
+1552;F; 66;Coronel Fabriciano;2020-07-10;SIM
+1553;M; 77;Coronel Fabriciano;2020-07-03;SIM
+1554;M; 53;Timóteo;2020-07-08;Não informado
+1555;F; 71;Belo Oriente;2020-07-09;SIM
+1556;M; 67;Caratinga;2020-07-09;NÃO
+1557;M; 58;Belmiro Braga;2020-07-08;SIM
+1558;M; 68;Juiz de Fora;2020-07-09;NÃO
+1559;M; 81;Matias Barbosa;2020-07-09;SIM
+1560;M; 85;Juiz de Fora;2020-07-08;SIM
+1561;F; 90;Ouro Preto;2020-07-08;SIM
+1562;M; 64;Contagem;2020-07-09;SIM
+1563;M; 65;Contagem;2020-07-09;SIM
+1564;F; 92;Matozinhos;2020-06-28;SIM
+1565;M; 86;Esmeraldas;2020-07-10;SIM
+1566;M; 66;Juatuba;2020-07-03;SIM
+1567;F; 73;Central de Minas;2020-07-02;NÃO
+1568;M; 37;Santa Maria do Suaçuí;2020-07-02;Não informado
+1569;M; 62;Governador Valadares;2020-07-03;SIM
+1570;F; 74;Governador Valadares;2020-07-03;SIM
+1571;F; 80;Uberlândia;2020-06-09;SIM
+1572;M; 72;Uberlândia;2020-06-16;SIM
+1573;M; 56;Conceição dos Ouros;2020-07-10;SIM
+1574;F; 72;Pouso Alegre;2020-07-10;SIM
+1575;M; 87;Inconfidentes;2020-07-09;SIM
+1576;F; 61;Belo Horizonte;2020-07-04;SIM
+1577;M; 81;Belo Horizonte;2020-06-25;SIM
+1578;M; 56;Belo Horizonte;2020-07-02;NÃO
+1579;M; 68;Belo Horizonte;2020-06-25;SIM
+1580;F; 79;Belo Horizonte;2020-07-04;SIM
+1581;M; 90;Belo Horizonte;2020-06-22;SIM
+1582;M; 72;Belo Horizonte;2020-06-28;SIM
+1583;M; 63;Belo Horizonte;2020-07-04;SIM
+1584;M; 81;Belo Horizonte;2020-07-03;SIM
+1585;M; 81;Belo Horizonte;2020-07-05;SIM
+1586;M; 79;Belo Horizonte;2020-06-30;SIM
+1587;M; 82;Belo Horizonte;2020-06-27;SIM
+1588;F; 55;Belo Horizonte;2020-07-02;SIM
+1589;F; 69;Belo Horizonte;2020-06-27;SIM
+1590;M; 64;Belo Horizonte;2020-06-29;SIM
+1591;F; 85;Belo Horizonte;2020-07-02;SIM
+1592;F; 59;Belo Horizonte;2020-07-09;SIM
+1593;M; 73;Belo Horizonte;2020-07-01;SIM
+1594;M; 49;Belo Horizonte;2020-07-07;SIM
+1595;M; 55;Belo Horizonte;2020-06-29;SIM
+1596;M; 81;Belo Horizonte;2020-07-04;NÃO
+1597;F; 78;Delta;2020-07-11;SIM
+1598;M; 57;Ipatinga;2020-07-10;NÃO
+1599;M; 84;Ipatinga;2020-07-06;NÃO
+1600;M; 88;Braúnas;2020-07-11;SIM
+1601;M; 61;Governador Valadares;2020-07-05;Não informado
+1602;M; 60;Governador Valadares;2020-07-04;SIM
+1603;F; 86;Governador Valadares;2020-07-05;SIM
+1604;F; 77;Governador Valadares;2020-07-04;Não informado
+1605;M; 82;Janaúba;2020-07-11;SIM
+1606;M; 60;Uberlândia;2020-07-12;SIM
+1607;F; 68;Uberlândia;2020-07-12;SIM
+1608;M; 72;Araguari;2020-07-12;SIM
+1609;M; 47;Contagem;2020-06-28;SIM
+1610;M; 90;Lagoa Dourada;2020-07-10;SIM
+1611;M; 72;Araguari;2020-07-11;SIM
+1612;M; 89;Uberaba;2020-07-11;SIM
+1613;F; 88;Pirapetinga;2020-07-10;SIM
+1614;F; 54;Leopoldina;2020-07-08;Não informado
+1615;M; 81;Leopoldina;2020-07-09;Não informado
+1616;M; 67;Argirita;2020-06-26;Não informado
+1617;F; 65;Tupaciguara;2020-06-14;SIM
+1618;M; 83;Uberlândia;2020-06-16;SIM
+1619;M; 80;Araguari;2020-06-09;SIM
+1620;M; 69;Divinópolis;2020-07-03;SIM
+1621;F; 69;Divinópolis;2020-07-05;SIM
+1622;M; 64;Itapecerica;2020-07-05;SIM
+1623;F; 78;Itaúna;2020-07-04;SIM
+1624;F; 89;São Sebastião do Paraíso;2020-07-09;NÃO
+1625;M; 68;Lavras;2020-07-12;SIM
+1626;F; 66;Lavras;2020-07-11;SIM
+1627;F; 79;Alfenas;2020-07-12;SIM
+1628;F; 64;Uberlândia;2020-07-12;SIM
+1629;M; 98;Uberlândia;2020-07-12;SIM
+1630;F; 90;Uberlândia;2020-07-12;SIM
+1631;F; 56;Juiz de Fora;2020-07-12;SIM
+1632;F; 90;Mar de Espanha;2020-07-04;SIM
+1633;F; 54;Timóteo;2020-07-03;SIM
+1634;M; 47;Caratinga;2020-07-04;Não informado
+1635;F; 62;Timóteo;2020-07-04;SIM
+1636;M; 76;Coronel Fabriciano;2020-07-09;NÃO
+1637;F; 46;Japonvar;2020-07-09;Não informado
+1638;M; 87;Araguari;2020-07-12;SIM
+1639;F; 60;Araguari;2020-07-12;SIM
+1640;F; 87;Governador Valadares;2020-07-06;SIM
+1641;F; 75;Governador Valadares;2020-07-07;NÃO
+1642;F; 38;Itanhomi;2020-07-06;SIM
+1643;M;103;Pirapora;2020-07-11;SIM
+1644;M; 63;Buritizeiro;2020-07-12;SIM
+1645;M; 67;Betim;2020-07-07;SIM
+1646;F; 84;Betim;2020-07-07;SIM
+1647;M; 56;Brumadinho;2020-07-01;SIM
+1648;M; 58;Brumadinho;2020-07-06;SIM
+1649;M; 35;Contagem;2020-07-07;SIM
+1650;M; 72;Contagem;2020-07-07;SIM
+1651;M; 29;Contagem;2020-07-07;SIM
+1652;F; 97;Pedro Leopoldo;2020-07-08;SIM
+1653;M; 46;Pedro Leopoldo;2020-07-03;SIM
+1654;F; 79;Ribeirão das Neves;2020-05-30;SIM
+1655;M; 78;Ribeirão das Neves;2020-05-31;SIM
+1656;M; 57;Ribeirão das Neves;2020-05-31;SIM
+1657;M; 73;Ribeirão das Neves;2020-07-04;SIM
+1658;F; 45;Ribeirão das Neves;2020-06-22;SIM
+1659;M; 89;Ribeirão das Neves;2020-07-01;SIM
+1660;M; 68;Ribeirão das Neves;2020-06-29;SIM
+1661;M; 84;Ribeirão das Neves;2020-06-18;SIM
+1662;M; 67;Ribeirão das Neves;2020-06-30;SIM
+1663;M; 66;Ribeirão das Neves;2020-07-05;NÃO
+1664;F; 73;Barbacena;2020-07-12;SIM
+1665;F; 80;Igarapé;2020-07-12;NÃO
+1666;M; 68;Ibirité;2020-07-11;NÃO
+1667;M; 84;Ibirité;2020-07-11;NÃO
+1668;F; 58;Betim;2020-07-11;SIM
+1669;F; 76;Betim;2020-07-08;SIM
+1670;M; 90;João Monlevade;2020-07-12;SIM
+1671;M; 81;Belo Horizonte;2020-07-02;Não informado
+1672;M; 67;Belo Horizonte;2020-07-08;SIM
+1673;M; 78;Belo Horizonte;2020-07-11;SIM
+1674;F; 72;Belo Horizonte;2020-07-08;SIM
+1675;F;101;Belo Horizonte;2020-07-01;SIM
+1676;F; 72;Belo Horizonte;2020-07-12;Não informado
+1677;F; 80;Belo Horizonte;2020-07-12;Não informado
+1678;M; 68;Belo Horizonte;2020-07-10;Não informado
+1679;M; 60;Belo Horizonte;2020-07-11;Não informado
+1680;F; 82;Belo Horizonte;2020-06-24;SIM
+1681;F; 89;Belo Horizonte;2020-07-10;Não informado
+1682;M; 86;Belo Horizonte;2020-07-11;SIM
+1683;M; 67;Belo Horizonte;2020-07-11;Não informado
+1684;M; 83;Belo Horizonte;2020-06-24;Não informado
+1685;F; 95;Belo Horizonte;2020-07-12;SIM
+1686;F; 61;Muriaé;2020-07-08;SIM
+1687;M; 42;Conceição das Alagoas;2020-07-11;SIM
+1688;F; 73;São Geraldo;2020-06-10;SIM
+1689;M; 59;Ubá;2020-06-23;SIM
+1690;F; 94;Tabuleiro;2020-07-08;SIM
+1691;F; 36;Matias Barbosa;2020-07-04;SIM
+1692;M; 47;Juiz de Fora;2020-07-10;SIM
+1693;F; 84;Juiz de Fora;2020-07-10;SIM
+1694;M; 59;Juiz de Fora;2020-07-09;SIM
+1695;F; 56;Juiz de Fora;2020-07-11;SIM
+1696;F; 29;Juiz de Fora;2020-07-12;SIM
+1697;M; 55;Juiz de Fora;2020-07-10;SIM
+1698;M; 66;Juiz de Fora;2020-07-12;SIM
+1699;F; 77;Juiz de Fora;2020-07-13;SIM
+1700;M; 75;Ubá;2020-05-22;SIM
+1701;M; 38;Salinas;2020-07-09;Não informado
+1702;F; 67;Salinas;2020-07-09;SIM
+1703;M; 91;Taiobeiras;2020-07-11;Não informado
+1704;M; 48;Montes Claros;2020-07-13;Não informado
+1705;M; 85;Montes Claros;2020-07-10;Não informado
+1706;F; 97;Montes Claros;2020-07-11;SIM
+1707;M; 81;Uberlândia;2020-07-13;SIM
+1708;M; 84;Uberlândia;2020-07-13;SIM
+1709;M; 58;Uberlândia;2020-07-13;NÃO
+1710;M; 46;Araguari;2020-07-14;SIM
+1711;M; 76;São João do Oriente;2020-07-13;SIM
+1712;M; 84;Coronel Fabriciano;2020-07-12;SIM
+1713;M; 65;Dom Cavati;2020-07-12;Não informado
+1714;M; 81;Coronel Fabriciano;2020-07-10;NÃO
+1715;M; 80;Araguari;2020-07-13;SIM
+1716;F; 70;Sete Lagoas;2020-07-12;SIM
+1717;M; 40;Medina;2020-06-27;NÃO
+1718;M; 47;Jacinto;2020-07-10;NÃO
+1719;F; 90;Unaí;2020-07-10;SIM
+1720;M; 49;Campos Gerais;2020-07-09;NÃO
+1721;M; 84;Jeceaba;2020-07-12;SIM
+1722;M; 85;Caranaíba;2020-07-08;SIM
+1723;F; 52;Congonhas;2020-07-04;NÃO
+1724;M; 67;Betim;2020-07-07;SIM
+1725;M; 68;Contagem;2020-07-10;NÃO
+1726;M; 49;Contagem;2020-07-07;SIM
+1727;F; 72;Contagem;2020-07-10;SIM
+1728;F; 52;Contagem;2020-07-10;SIM
+1729;F; 48;Contagem;2020-07-08;SIM
+1730;F; 84;Contagem;2020-07-10;SIM
+1731;M; 55;Ibirité;2020-07-08;SIM
+1732;F; 60;Ibirité;2020-07-13;SIM
+1733;F; 79;Ouro Preto;2020-07-12;SIM
+1734;M; 85;Sabará;2020-07-13;SIM
+1735;M; 45;Belo Horizonte;2020-07-05;SIM
+1736;F; 63;Belo Horizonte;2020-07-13;SIM
+1737;M; 65;Belo Horizonte;2020-07-09;SIM
+1738;F; 89;Belo Horizonte;2020-07-07;SIM
+1739;M; 57;Belo Horizonte;2020-07-09;SIM
+1740;M; 85;Belo Horizonte;2020-07-11;SIM
+1741;F; 57;Belo Horizonte;2020-07-04;SIM
+1742;F; 84;Belo Horizonte;2020-07-10;SIM
+1743;F; 78;Belo Horizonte;2020-07-10;SIM
+1744;F; 75;Belo Horizonte;2020-07-08;SIM
+1745;M; 88;Belo Horizonte;2020-07-08;SIM
+1746;M; 73;Manhuaçu;2020-07-13;NÃO
+1747;M; 74;Santa Margarida;2020-07-12;SIM
+1748;M; 51;Muriaé;2020-07-05;SIM
+1749;M; 67;Muriaé;2020-07-02;SIM
+1750;M; 56;Muriaé;2020-07-04;SIM
+1751;M; 79;Pedra Azul;2020-07-10;SIM
+1752;F; 89;Almenara;2020-07-10;SIM
+1753;M; 77;Almenara;2020-07-12;SIM
+1754;M; 68;Medina;2020-06-26;SIM
+1755;F; 68;Felisburgo;2020-07-03;SIM
+1756;M; 38;Jordânia;2020-07-11;NÃO
+1757;F; 47;Lajinha;2020-07-14;SIM
+1758;M; 50;Formiga;2020-07-08;SIM
+1759;M; 73;Campo Belo;2020-07-03;SIM
+1760;M; 83;Campo Belo;2020-07-08;SIM
+1761;F; 73;Cláudio;2020-07-03;SIM
+1762;M; 78;Papagaios;2020-07-10;SIM
+1763;M; 70;Uberlândia;2020-07-14;SIM
+1764;F; 80;Uberlândia;2020-07-15;SIM
+1765;M; 81;Uberlândia;2020-07-15;SIM
+1766;M; 70;Toledo;2020-06-13;SIM
+1767;M;103;Borda da Mata;2020-07-06;SIM
+1768;M; 64;Outros Estados;2020-07-08;SIM
+1769;M; 92;Borda da mata;2020-07-09;SIM
+1770;F; 76;Congonhal;2020-07-13;SIM
+1771;M; 66;Poços de Caldas;2020-07-13;SIM
+1772;F; 57;Outros Estados;2020-07-14;SIM
+1773;M; 79;Carmo do Paranaíba;2020-07-05;SIM
+1774;F; 62;Guaranésia;2020-07-13;Não informado
+1775;F; 91;Nanuque;2020-07-11;SIM
+1776;M; 52;Nanuque;2020-07-10;Não informado
+1777;F; 78;Teófilo Otoni;2020-07-11;SIM
+1778;M; 78;Teófilo Otoni;2020-07-13;SIM
+1779;F; 85;Espinosa;2020-07-11;SIM
+1780;M; 66;Coronel Fabriciano;2020-06-25;Não informado
+1781;F; 56;Ipatinga;2020-07-11;SIM
+1782;M; 46;Ipatinga;2020-07-11;SIM
+1783;M; 73;Timóteo;2020-07-14;SIM
+1784;M; 70;Boa Esperança;2020-07-08;SIM
+1785;F; 87;Lavras;2020-07-14;SIM
+1786;F; 77;São Joaquim de Bicas;2020-07-13;SIM
+1787;F; 70;Sarzedo;2020-07-12;SIM
+1788;M; 78;Caeté;2020-07-13;SIM
+1789;M; 77;Betim;2020-07-12;SIM
+1790;F; 70;Betim;2020-07-13;SIM
+1791;F; 30;Betim;2020-07-08;NÃO
+1792;M; 54;Contagem;2020-06-23;SIM
+1793;F; 31;Contagem;2020-07-03;SIM
+1794;F; 79;Buritis;2020-07-12;SIM
+1795;F; 51;Belo Horizonte;2020-07-08;SIM
+1796;M; 45;Belo Horizonte;2020-07-07;NÃO
+1797;F; 79;Belo Horizonte;2020-06-29;SIM
+1798;M; 70;Belo Horizonte;2020-07-10;SIM
+1799;F; 80;Belo Horizonte;2020-07-11;SIM
+1800;M; 54;Belo Horizonte;2020-07-12;SIM
+1801;F; 83;Belo Horizonte;2020-07-09;SIM
+1802;M; 88;Belo Horizonte;2020-07-12;SIM
+1803;M; 66;Belo Horizonte;2020-07-13;SIM
+1804;M; 89;Belo Horizonte;2020-07-08;SIM
+1805;F; 83;Belo Horizonte;2020-07-10;SIM
+1806;M; 51;Belo Horizonte;2020-07-11;SIM
+1807;M; 70;Belo Horizonte;2020-07-12;SIM
+1808;M; 77;Belo Horizonte;2020-07-05;SIM
+1809;M; 67;Belo Horizonte;2020-06-30;SIM
+1810;M; 56;Belo Horizonte;2020-07-10;SIM
+1811;M; 56;Belo Horizonte;2020-07-08;SIM
+1812;F; 74;Belo Horizonte;2020-07-09;SIM
+1813;F; 77;Belo Horizonte;2020-07-03;NÃO
+1814;F; 74;Belo Horizonte;2020-07-09;SIM
+1815;M; 62;Belo Horizonte;2020-07-13;SIM
+1816;M; 89;Belo Horizonte;2020-07-07;SIM
+1817;M; 54;Belo Horizonte;2020-07-13;SIM
+1818;F; 86;Piranga;2020-06-20;SIM
+1819;M; 59;Muriaé;2020-07-13;SIM
+1820;F; 45;Miradouro;2020-06-29;NÃO
+1821;F; 50;Muriaé;2020-06-29;SIM
+1822;M; 41;Buritizeiro;2020-07-15;NÃO
+1823;M; 41;Santa Juliana;2020-07-15;SIM
+1824;M; 36;Uberaba;2020-07-14;Não informado
+1825;F; 31;Uberaba;2020-07-14;SIM
+1826;F; 57;Iturama;2020-07-16;SIM
+1827;F; 74;Manhuaçu;2020-07-07;SIM
+1828;M; 61;Muriaé;2020-06-25;SIM
+1829;M; 71;Santa Rita de Minas;2020-07-12;SIM
+1830;M; 70;Ipatinga;2020-07-14;SIM
+1831;M; 73;Coronel Fabriciano;2020-07-15;Não informado
+1832;M; 55;Ipatinga;2020-07-12;NÃO
+1833;M; 74;Santana do Paraíso;2020-07-15;SIM
+1834;F; 59;Pouso Alegre;2020-07-14;SIM
+1835;M; 52;Pouso Alegre;2020-07-16;SIM
+1836;M; 75;Montes Claros;2020-07-14;SIM
+1837;M; 43;Fruta de Leite;2020-07-14;SIM
+1838;M; 34;Lambari;2020-07-08;SIM
+1839;F; 69;Varginha;2020-07-13;SIM
+1840;M; 63;Uberlândia;2020-07-15;SIM
+1841;F; 78;Uberlândia;2020-07-15;SIM
+1842;M; 54;Uberlândia;2020-07-15;SIM
+1843;M; 54;Uberlândia;2020-07-16;SIM
+1844;M; 60;Santa Vitória;2020-07-16;SIM
+1845;F; 97;Curvelo;2020-07-14;SIM
+1846;M; 77;Curvelo;2020-07-14;NÃO
+1847;F; 84;Juiz de Fora;2020-07-10;SIM
+1848;F; 99;Juiz de Fora;2020-07-14;SIM
+1849;M; 53;Juiz de Fora;2020-07-13;SIM
+1850;F; 43;Juiz de Fora;2020-07-14;SIM
+1851;M; 83;Campo Belo;2020-07-13;SIM
+1852;M; 76;Candeias;2020-07-12;SIM
+1853;F; 75;Carmópolis de Minas;2020-07-07;SIM
+1854;M; 48;Outros Estados;2020-07-10;NÃO
+1855;F; 67;Nova Serrana;2020-07-10;SIM
+1856;M; 59;Conceição do Mato Dentro;2020-07-15;SIM
+1857;F; 43;Governador Valadares;2020-07-02;SIM
+1858;F; 85;Fernandes Tourinho;2020-07-02;SIM
+1859;M; 84;Central de Minas;2020-07-03;SIM
+1860;M; 73;Alfenas;2020-07-13;SIM
+1861;M; 81;Alfenas;2020-07-15;SIM
 1862;M; 81;Alfenas;2020-07-15;SIM
-1863;M; 81;Alfenas;2020-07-15;SIM
-1864;M; 50;Contagem;2020-07-12;SIM
-1865;M; 56;Contagem;2020-07-12;SIM
-1866;F; 67;Contagem;2020-07-11;SIM
-1867;M; 65;Contagem;2020-07-11;SIM
-1868;M; 79;Belo Horizonte;2020-06-27;SIM
-1869;F; 48;Contagem;2020-07-13;SIM
-1870;F; 73;Contagem;2020-07-13;SIM
-1871;M; 84;Contagem;2020-07-14;SIM
-1872;F; 60;Crucilândia;2020-07-15;SIM
-1873;M; 87;Ibirité;2020-07-10;SIM
-1874;M; 99;Ibirité;2020-07-14;SIM
-1875;F; 51;Ibirité;2020-07-12;SIM
-1876;F; 89;Ibirité;2020-07-14;SIM
-1877;M; 36;Ribeirão das Neves;2020-06-28;NÃO
-1878;F; 83;Ribeirão das Neves;2020-06-29;SIM
-1879;M; 72;Ribeirão das Neves;2020-07-02;SIM
-1880;M; 77;Ribeirão das Neves;2020-07-09;SIM
-1881;F; 50;Ribeirão das Neves;2020-07-09;SIM
-1882;M; 47;Ribeirão das Neves;2020-07-09;SIM
-1883;F; 74;São José da Lapa;2020-07-14;SIM
-1884;F;101;Bonfinópolis de Minas;2020-07-15;SIM
-1885;M; 74;Belo Horizonte;2020-07-11;SIM
-1886;M; 84;Belo Horizonte;2020-07-04;SIM
-1887;M; 81;Belo Horizonte;2020-07-13;SIM
-1888;F; 72;Belo Horizonte;2020-07-11;SIM
-1889;F; 75;Belo Horizonte;2020-07-10;SIM
-1890;M; 88;Belo Horizonte;2020-07-15;NÃO
-1891;M; 65;Belo Horizonte;2020-07-15;SIM
-1892;F; 78;Belo Horizonte;2020-07-13;SIM
-1893;M; 85;Belo Horizonte;2020-07-15;SIM
-1894;M; 54;Pompéu;2020-07-14;SIM
-1895;M; 64;Santos Dumont;2020-06-04;SIM
-1896;M; 74;Uberaba;2020-07-07;SIM
-1897;F; 74;Uberaba;2020-07-14;SIM
-1898;F; 60;Curvelo;2020-07-16;SIM
-1899;M; 90;Maria da Fé;2020-07-15;NÃO
-1900;F; 75;Timóteo;2020-07-16;SIM
-1901;F; 68;Ipatinga;2020-07-16;SIM
-1902;F; 92;Ipatinga;2020-07-15;SIM
-1903;M; 74;Timóteo;2020-07-16;Não informado
-1904;M; 49;Coronel Fabriciano;2020-07-16;SIM
-1905;M; 56;Iapu;2020-07-13;NÃO
-1906;M; 62;Ipatinga;2020-07-08;SIM
-1907;F; 93;Ipatinga;2020-07-08;NÃO
-1908;M; 60;Santa Cruz de Minas;2020-07-15;SIM
-1909;M; 74;Bom Sucesso;2020-07-16;SIM
-1910;M; 87;Uberlândia;2020-07-16;SIM
-1911;M; 70;Uberlândia;2020-07-16;SIM
-1912;F; 79;Uberlândia;2020-07-16;SIM
-1913;M; 74;Araguari;2020-07-16;NÃO
-1914;M; 63;Uberlândia;2020-07-16;SIM
-1915;M; 75;Uberlândia;2020-07-16;SIM
-1916;F; 93;Uberlândia;2020-07-16;SIM
-1917;M;107;Uberlândia;2020-07-16;SIM
-1918;F; 63;Janaúba;2020-07-16;SIM
-1919;M; 33;Janaúba;2020-07-17;Não informado
-1920;F; 81;Curral de Dentro;2020-07-11;SIM
-1921;M; 57;Monte Azul;2020-07-09;SIM
-1922;F; 61;Leopoldina;2020-06-15;Não informado
-1923;M; 80;Recreio;2020-07-10;Não informado
-1924;M; 75;Cataguases;2020-07-13;Não informado
-1925;F; 69;Cataguases;2020-07-13;Não informado
-1926;M; 65;Cataguases;2020-07-14;Não informado
-1927;F; 68;Cataguases;2020-07-15;Não informado
-1928;M; 71;Volta Grande;2020-07-10;Não informado
-1929;F; 77;Gouveia;2020-07-16;SIM
-1930;M; 80;Ipatinga;2020-07-16;SIM
-1931;M; 57;Governador Valadares;2020-07-05;SIM
-1932;M; 62;Governador Valadares;2020-07-06;SIM
-1933;M; 63;Governador Valadares;2020-07-05;SIM
-1934;F; 78;Teófilo Otoni;2020-06-27;SIM
-1935;F; 59;Águas Formosas;2020-07-11;SIM
-1936;F; 74;Ouro Verde de Minas;2020-07-11;SIM
-1937;M; 61;Teófilo Otoni;2020-07-14;SIM
-1938;M; 54;Lagoa Santa;2020-07-15;SIM
-1939;M; 61;Piedade dos Gerais;2020-07-15;NÃO
-1940;M; 80;Santa Luzia;2020-07-06;Não informado
-1941;F; 88;Santa Luzia;2020-06-29;SIM
-1942;M; 64;Pedro Leopoldo;2020-07-13;SIM
-1943;M; 46;Ribeirão das Neves;2020-07-09;SIM
-1944;F; 85;Ribeirão das Neves;2020-07-16;SIM
-1945;M; 93;Ribeirão das Neves;2020-07-12;SIM
-1946;M; 52;Belo Horizonte;2020-07-10;SIM
-1947;F; 84;Belo Horizonte;2020-06-30;SIM
-1948;M; 83;Belo Horizonte;2020-06-20;SIM
-1949;F; 59;Belo Horizonte;2020-07-10;SIM
-1950;F; 71;Belo Horizonte;2020-07-14;SIM
-1951;F; 84;Belo Horizonte;2020-07-03;SIM
-1952;M; 83;Belo Horizonte;2020-07-14;SIM
-1953;M; 89;Belo Horizonte;2020-07-10;SIM
-1954;M; 80;Belo Horizonte;2020-07-12;SIM
-1955;M; 87;Belo Horizonte;2020-07-16;SIM
-1956;F; 74;Belo Horizonte;2020-07-13;SIM
-1957;F; 80;Belo Horizonte;2020-07-14;SIM
-1958;F; 77;Belo Horizonte;2020-07-13;SIM
-1959;M; 75;Belo Horizonte;2020-06-27;SIM
-1960;M; 88;Conceição das Alagoas;2020-07-16;Não informado
-1961;M; 76;Uberaba;2020-07-17;SIM
-1962;M; 57;Uberaba;2020-07-17;SIM
-1963;F; 83;Conceição das Alagoas;2020-07-15;SIM
-1964;F; 71;Uberlândia;2020-07-18;SIM
-1965;F; 60;Muriaé;2020-07-17;NÃO
-1966;F; 61;Janaúba;2020-07-15;SIM
-1967;F; 56;Paracatu;2020-07-02;Não informado
-1968;F; 74;Unaí;2020-07-13;SIM
-1969;M; 71;Unaí;2020-07-15;SIM
-1970;M; 44;Unaí;2020-07-16;Não informado
-1971;M; 55;São Joaquim de Bicas;2020-07-14;SIM
-1972;F; 77;Betim;2020-07-02;SIM
-1973;F; 66;Timóteo;2020-07-17;Não informado
-1974;F; 86;Ipaba;2020-07-17;Não informado
-1975;M; 64;Dom Cavati;2020-07-17;Não informado
-1976;M; 32;Uberaba;2020-07-17;SIM
-1977;M; 79;São Gonçalo do Rio Abaixo;2020-07-08;SIM
-1978;M; 64;Araguari;2020-07-17;SIM
-1979;M; 84;Veríssimo;2020-07-18;SIM
-1980;M; 75;Planura;2020-07-18;SIM
-1981;M; 98;Uberaba;2020-07-18;SIM
-1982;M; 82;Frutal;2020-07-17;SIM
-1983;M; 43;Conceição das Alagoas;2020-07-18;Não informado
-1984;M; 82;Visconde do Rio Branco;2020-07-15;SIM
-1985;F; 80;Juiz de Fora;2020-07-14;SIM
-1986;M; 65;Juiz de Fora;2020-07-14;SIM
-1987;M; 51;Juiz de Fora;2020-07-16;Não informado
-1988;M; 77;Juiz de Fora;2020-07-17;NÃO
-1989;M; 80;Ouro Branco;2020-07-15;SIM
-1990;M;  0;Montes Claros;2020-07-16;Não informado
-1991;F; 88;Governador Valadares;2020-07-07;SIM
-1992;M; 65;Governador Valadares;2020-07-10;SIM
-1993;F; 87;Governador Valadares;2020-07-08;SIM
-1994;F; 67;Governador Valadares;2020-07-10;SIM
-1995;M; 69;Governador Valadares;2020-07-08;SIM
-1996;M; 63;Uberlândia;2020-07-18;SIM
-1997;M; 36;Uberlândia;2020-07-19;NÃO
-1998;F; 75;Uberlândia;2020-07-19;SIM
-1999;F; 50;Passos;2020-07-18;NÃO
-2000;M; 58;Pratápolis;2020-07-19;SIM
-2001;F; 66;Muriaé;2020-06-17;SIM
-2002;F; 52;Uberlândia;2020-07-18;Não informado
-2003;F; 77;Várzea da Palma;2020-07-14;NÃO
-2004;M; 71;Pratápolis;2020-07-20;NÃO
-2005;F; 68;Muriaé;2020-07-15;NÃO
-2006;M; 71;Uberlândia;2020-07-19;SIM
-2007;M; 69;Uberlândia;2020-07-19;NÃO
-2008;M; 45;Uberlândia;2020-07-19;SIM
-2009;M; 66;Espinosa;2020-07-13;SIM
-2010;F; 74;Matias Barbosa;2020-07-14;SIM
-2011;F; 70;Juiz de Fora;2020-07-15;SIM
-2012;M; 63;Lima Duarte;2020-07-15;SIM
-2013;F; 65;Matias Barbosa;2020-07-16;SIM
-2014;M; 69;Juiz de Fora;2020-07-17;SIM
-2015;M; 79;Sarzedo;2020-07-16;SIM
-2016;M; 85;Alfenas;2020-07-16;SIM
-2017;M; 70;Conceição da Aparecida;2020-07-20;SIM
-2018;M; 72;Outros Estados;2020-05-17;SIM
-2019;M; 53;Outros Estados;2020-06-08;SIM
-2020;M; 58;Outros Estados;2020-06-17;SIM
-2021;M;  0;Nova Serrana;2020-07-10;SIM
-2022;M; 82;Nova Serrana;2020-07-05;SIM
-2023;M; 91;Divinópolis;2020-07-03;SIM
-2024;M; 89;Santana do Jacaré;2020-07-03;NÃO
-2025;F; 78;Pará de Minas;2020-07-13;SIM
-2026;M; 89;Pará de Minas;2020-07-07;SIM
-2027;M; 80;Ouro Branco;2020-07-15;SIM
-2028;M; 67;Jacutinga;2020-07-19;SIM
-2029;F; 81;Poços de Caldas;2020-07-17;SIM
-2030;F; 88;Borda da Mata;2020-07-17;SIM
-2031;F; 79;Outros Estados;2020-05-07;SIM
-2032;F; 64;Belo Horizonte;2020-07-10;SIM
-2033;F; 82;Belo Horizonte;2020-07-07;SIM
-2034;M; 44;Belo Horizonte;2020-07-15;SIM
-2035;M; 82;Belo Horizonte;2020-07-19;SIM
-2036;F; 84;Belo Horizonte;2020-06-30;SIM
-2037;F; 76;Belo Horizonte;2020-07-14;NÃO
-2038;F; 70;Belo Horizonte;2020-07-15;SIM
-2039;F; 79;Belo Horizonte;2020-07-15;SIM
-2040;M; 70;Belo Horizonte;2020-07-13;SIM
-2041;M; 70;Belo Horizonte;2020-07-08;SIM
-2042;F; 72;Belo Horizonte;2020-07-02;SIM
-2043;M; 56;Belo Horizonte;2020-07-12;SIM
-2044;M; 75;Belo Horizonte;2020-07-14;SIM
-2045;F; 79;Belo Horizonte;2020-07-10;SIM
-2046;M; 67;Belo Horizonte;2020-07-15;SIM
-2047;M; 79;Belo Horizonte;2020-07-16;SIM
-2048;F; 78;Belo Horizonte;2020-07-17;SIM
-2049;M; 87;Belo Horizonte;2020-07-14;SIM
-2050;M; 53;Belo Horizonte;2020-07-17;SIM
-2051;F; 93;Belo Horizonte;2020-07-15;SIM
-2052;F; 65;Belo Horizonte;2020-07-13;SIM
-2053;M; 66;Belo Horizonte;2020-07-16;SIM
-2054;F; 85;Belo Horizonte;2020-07-19;SIM
-2055;M; 72;Belo Horizonte;2020-07-10;SIM
-2056;F; 86;Belo Horizonte;2020-07-12;SIM
-2057;M; 84;Belo Horizonte;2020-07-11;SIM
-2058;F; 82;Belo Horizonte;2020-07-17;SIM
-2059;M; 86;Belo Horizonte;2020-07-19;SIM
-2060;M; 95;Belo Horizonte;2020-07-12;SIM
-2061;M; 74;Belo Horizonte;2020-07-12;SIM
-2062;F; 81;Belo Horizonte;2020-07-10;SIM
-2063;M; 87;Belo Horizonte;2020-07-17;SIM
-2064;M; 55;Belo Horizonte;2020-07-14;SIM
-2065;F; 92;Belo Horizonte;2020-07-16;SIM
-2066;F; 80;Belo Horizonte;2020-07-12;SIM
-2067;F; 63;Baldim;2020-07-18;SIM
-2068;F; 70;Sete Lagoas;2020-07-20;SIM
-2069;M; 55;Além Paraíba;2020-05-21;Não informado
-2070;M; 71;Leopoldina;NA;Não informado
-2071;M; 67;Leopoldina;2020-06-21;Não informado
-2072;F; 75;Leopoldina;2020-07-17;Não informado
-2073;M; 64;Recreio;2020-07-18;Não informado
-2074;F; 56;Cataguases;2020-07-17;Não informado
-2075;F; 89;Cataguases;2020-07-18;Não informado
-2076;M; 61;Frutal;2020-07-11;SIM
-2077;M; 58;Iturama;2020-07-16;Não informado
-2078;M; 76;Santa Juliana;2020-07-17;Não informado
-2079;M; 63;Pirajuba;2020-07-17;Não informado
-2080;M; 67;Santa Juliana;2020-07-18;Não informado
-2081;F; 94;Araxá;2020-07-18;SIM
-2082;M; 54;Uberaba;2020-07-20;SIM
-2083;F; 89;Uberlândia;2020-06-13;SIM
-2084;M; 49;Uberlândia;2020-06-14;SIM
-2085;M; 61;Uberlândia;2020-07-10;SIM
-2086;M; 66;Ipatinga;2020-07-18;SIM
-2087;M; 67;Caratinga;2020-07-16;NÃO
-2088;M; 73;Timóteo;2020-07-19;NÃO
-2089;M; 98;Timóteo;2020-07-20;SIM
-2090;M; 70;Bom Jesus do Galho;2020-07-15;SIM
-2091;M; 56;Coronel Fabriciano;2020-07-19;SIM
-2092;F; 64;Ipatinga;2020-07-18;NÃO
-2093;F; 77;Ipatinga;2020-07-04;NÃO
-2094;M; 85;Timóteo;2020-07-11;SIM
-2095;M; 38;Caratinga;2020-07-12;SIM
-2096;F; 90;Ipatinga;2020-07-13;NÃO
-2097;M; 50;Ponto dos Volantes;2020-07-14;SIM
-2098;F; 85;Novo Oriente de Minas;2020-07-17;SIM
-2099;M; 85;Teófilo Otoni;2020-07-16;SIM
-2100;F; 73;Nanuque;2020-07-19;SIM
-2101;M; 52;Ataléia;2020-07-17;Não informado
-2102;F; 78;Nanuque;2020-07-19;SIM
-2103;M; 88;Fruta de Leite;2020-07-14;Não informado
-2104;M; 85;Montes Claros;2020-07-17;SIM
-2105;M; 85;Espinosa;2020-07-19;SIM
-2106;M; 74;Uberlândia;2020-07-20;SIM
-2107;M; 82;Uberlândia;2020-07-21;SIM
-2108;F; 78;Juiz de Fora;2020-07-17;SIM
-2109;M; 72;Matias Barbosa;2020-07-18;SIM
-2110;M; 81;Betim;2020-07-16;SIM
-2111;M; 52;Betim;2020-07-16;SIM
-2112;F; 66;Betim;2020-07-17;SIM
-2113;M; 60;Betim;2020-07-18;SIM
-2114;F; 40;Betim;2020-07-18;SIM
-2115;M; 70;Betim;2020-07-16;SIM
-2116;M; 50;Betim;2020-07-07;SIM
-2117;F; 74;Betim;2020-07-19;SIM
-2118;F; 51;Betim;2020-07-21;SIM
-2119;F; 61;Contagem;2020-07-11;SIM
-2120;M; 74;Contagem;2020-07-13;SIM
-2121;M; 65;Contagem;2020-07-14;SIM
-2122;F; 78;Contagem;2020-07-15;SIM
-2123;F; 83;Contagem;2020-07-16;SIM
-2124;F; 89;Contagem;2020-07-05;SIM
-2125;M; 71;Contagem;2020-07-01;SIM
-2126;M; 55;Contagem;2020-07-12;Não informado
-2127;M; 75;Esmeraldas;2020-07-12;SIM
-2128;F; 84;Ribeirão das Neves;2020-07-10;SIM
-2129;F; 43;Ribeirão das Neves;2020-07-20;SIM
-2130;M; 38;Ribeirão das Neves;2020-07-17;SIM
-2131;M; 89;Ribeirão das Neves;2020-07-18;SIM
-2132;M; 72;Ribeirão das Neves;2020-06-27;SIM
-2133;M; 76;Ribeirão das Neves;2020-07-13;SIM
-2134;M; 69;Ribeirão das Neves;2020-07-20;SIM
-2135;M; 67;Ribeirão das Neves;2020-07-19;SIM
-2136;M; 82;Ribeirão das Neves;2020-06-23;SIM
-2137;F; 65;Sabará;2020-07-15;SIM
-2138;F; 64;Santa Luzia;2020-07-16;SIM
-2139;F; 68;Itapeva;2020-07-18;SIM
-2140;F; 97;Alfenas;2020-07-16;SIM
-2141;F; 63;Alfenas;2020-07-18;SIM
-2142;M; 65;Alfenas;2020-07-19;SIM
-2143;M; 75;Unaí;2020-07-19;NÃO
-2144;M; 59;Unaí;2020-07-20;SIM
-2145;F; 65;Belo Horizonte;2020-07-02;SIM
-2146;M; 90;Belo Horizonte;2020-07-18;SIM
-2147;M; 71;Belo Horizonte;2020-07-14;SIM
-2148;M; 80;Belo Horizonte;2020-07-19;SIM
-2149;F; 88;Belo Horizonte;2020-07-13;SIM
-2150;M; 72;Belo Horizonte;2020-07-08;SIM
-2151;F; 75;Belo Horizonte;2020-06-23;SIM
-2152;M; 52;Belo Horizonte;2020-07-20;SIM
-2153;F; 68;Belo Horizonte;2020-06-22;SIM
-2154;M; 83;Belo Horizonte;2020-07-14;SIM
-2155;F; 71;Belo Horizonte;2020-07-06;SIM
-2156;M; 81;Belo Horizonte;2020-07-16;SIM
-2157;M; 88;Belo Horizonte;2020-07-15;SIM
-2158;F; 91;Belo Horizonte;2020-07-19;SIM
-2159;M; 41;Belo Horizonte;2020-07-19;SIM
-2160;M; 89;Belo Horizonte;2020-07-20;SIM
-2161;F; 95;Belo Horizonte;2020-07-20;SIM
-2162;M; 93;Belo Horizonte;2020-07-16;SIM
-2163;F; 61;Belo Horizonte;2020-07-20;SIM
-2164;F; 92;Belo Horizonte;2020-07-15;SIM
-2165;F; 89;Riacho dos Machados;2020-07-18;Não informado
-2166;F; 79;Janaúba;2020-07-08;SIM
+1863;M; 50;Contagem;2020-07-12;SIM
+1864;M; 56;Contagem;2020-07-12;SIM
+1865;F; 67;Contagem;2020-07-11;SIM
+1866;M; 65;Contagem;2020-07-11;SIM
+1867;M; 79;Belo Horizonte;2020-06-27;SIM
+1868;F; 48;Contagem;2020-07-13;SIM
+1869;F; 73;Contagem;2020-07-13;SIM
+1870;M; 84;Contagem;2020-07-14;SIM
+1871;F; 60;Crucilândia;2020-07-15;SIM
+1872;M; 87;Ibirité;2020-07-10;SIM
+1873;M; 99;Ibirité;2020-07-14;SIM
+1874;F; 51;Ibirité;2020-07-12;SIM
+1875;F; 89;Ibirité;2020-07-14;SIM
+1876;M; 36;Ribeirão das Neves;2020-06-28;NÃO
+1877;F; 83;Ribeirão das Neves;2020-06-29;SIM
+1878;M; 72;Ribeirão das Neves;2020-07-02;SIM
+1879;M; 77;Ribeirão das Neves;2020-07-09;SIM
+1880;F; 50;Ribeirão das Neves;2020-07-09;SIM
+1881;M; 47;Ribeirão das Neves;2020-07-09;SIM
+1882;F; 74;São José da Lapa;2020-07-14;SIM
+1883;F;101;Bonfinópolis de Minas;2020-07-15;SIM
+1884;M; 74;Belo Horizonte;2020-07-11;SIM
+1885;M; 84;Belo Horizonte;2020-07-04;SIM
+1886;M; 81;Belo Horizonte;2020-07-13;SIM
+1887;F; 72;Belo Horizonte;2020-07-11;SIM
+1888;F; 75;Belo Horizonte;2020-07-10;SIM
+1889;M; 88;Belo Horizonte;2020-07-15;NÃO
+1890;M; 65;Belo Horizonte;2020-07-15;SIM
+1891;F; 78;Belo Horizonte;2020-07-13;SIM
+1892;M; 85;Belo Horizonte;2020-07-15;SIM
+1893;M; 54;Pompéu;2020-07-14;SIM
+1894;M; 64;Santos Dumont;2020-06-04;SIM
+1895;M; 74;Uberaba;2020-07-07;SIM
+1896;F; 74;Uberaba;2020-07-14;SIM
+1897;F; 60;Curvelo;2020-07-16;SIM
+1898;M; 90;Maria da Fé;2020-07-15;NÃO
+1899;F; 75;Timóteo;2020-07-16;SIM
+1900;F; 68;Ipatinga;2020-07-16;SIM
+1901;F; 92;Ipatinga;2020-07-15;SIM
+1902;M; 74;Timóteo;2020-07-16;Não informado
+1903;M; 49;Coronel Fabriciano;2020-07-16;SIM
+1904;M; 56;Iapu;2020-07-13;NÃO
+1905;M; 62;Ipatinga;2020-07-08;SIM
+1906;F; 93;Ipatinga;2020-07-08;NÃO
+1907;M; 60;Santa Cruz de Minas;2020-07-15;SIM
+1908;M; 74;Bom Sucesso;2020-07-16;SIM
+1909;M; 87;Uberlândia;2020-07-16;SIM
+1910;M; 70;Uberlândia;2020-07-16;SIM
+1911;F; 79;Uberlândia;2020-07-16;SIM
+1912;M; 74;Araguari;2020-07-16;NÃO
+1913;M; 63;Uberlândia;2020-07-16;SIM
+1914;M; 75;Uberlândia;2020-07-16;SIM
+1915;F; 93;Uberlândia;2020-07-16;SIM
+1916;M;107;Uberlândia;2020-07-16;SIM
+1917;F; 63;Janaúba;2020-07-16;SIM
+1918;M; 33;Janaúba;2020-07-17;Não informado
+1919;F; 81;Curral de Dentro;2020-07-11;SIM
+1920;M; 57;Monte Azul;2020-07-09;SIM
+1921;F; 60;Além Paraíba;2020-06-21;NÃO
+1922;M; 80;Recreio;2020-07-10;Não informado
+1923;M; 75;Cataguases;2020-07-13;Não informado
+1924;F; 69;Cataguases;2020-07-13;Não informado
+1925;M; 65;Cataguases;2020-07-14;Não informado
+1926;F; 68;Cataguases;2020-07-15;Não informado
+1927;M; 71;Volta Grande;2020-07-10;Não informado
+1928;F; 77;Gouveia;2020-07-16;SIM
+1929;M; 80;Ipatinga;2020-07-16;SIM
+1930;M; 57;Governador Valadares;2020-07-05;SIM
+1931;M; 62;Governador Valadares;2020-07-06;SIM
+1932;M; 63;Governador Valadares;2020-07-05;SIM
+1933;F; 78;Teófilo Otoni;2020-06-27;SIM
+1934;F; 59;Águas Formosas;2020-07-11;SIM
+1935;F; 74;Ouro Verde de Minas;2020-07-11;SIM
+1936;M; 61;Teófilo Otoni;2020-07-14;SIM
+1937;M; 54;Lagoa Santa;2020-07-15;SIM
+1938;M; 61;Piedade dos Gerais;2020-07-15;NÃO
+1939;M; 80;Santa Luzia;2020-07-06;Não informado
+1940;F; 88;Santa Luzia;2020-06-29;SIM
+1941;M; 64;Pedro Leopoldo;2020-07-13;SIM
+1942;M; 46;Ribeirão das Neves;2020-07-09;SIM
+1943;F; 85;Ribeirão das Neves;2020-07-16;SIM
+1944;M; 93;Ribeirão das Neves;2020-07-12;SIM
+1945;M; 52;Belo Horizonte;2020-07-10;SIM
+1946;F; 84;Belo Horizonte;2020-06-30;SIM
+1947;M; 83;Belo Horizonte;2020-06-20;SIM
+1948;F; 59;Belo Horizonte;2020-07-10;SIM
+1949;F; 71;Belo Horizonte;2020-07-14;SIM
+1950;F; 84;Belo Horizonte;2020-07-03;SIM
+1951;M; 83;Belo Horizonte;2020-07-14;SIM
+1952;M; 89;Belo Horizonte;2020-07-10;SIM
+1953;M; 80;Belo Horizonte;2020-07-12;SIM
+1954;M; 87;Belo Horizonte;2020-07-16;SIM
+1955;F; 74;Belo Horizonte;2020-07-13;SIM
+1956;F; 80;Belo Horizonte;2020-07-14;SIM
+1957;F; 77;Belo Horizonte;2020-07-13;SIM
+1958;M; 75;Belo Horizonte;2020-06-27;SIM
+1959;M; 88;Conceição das Alagoas;2020-07-16;Não informado
+1960;M; 76;Uberaba;2020-07-17;SIM
+1961;M; 57;Uberaba;2020-07-17;SIM
+1962;F; 83;Conceição das Alagoas;2020-07-15;SIM
+1963;F; 71;Uberlândia;2020-07-18;SIM
+1964;F; 60;Muriaé;2020-07-17;NÃO
+1965;F; 61;Janaúba;2020-07-15;SIM
+1966;F; 56;Paracatu;2020-07-02;Não informado
+1967;F; 74;Unaí;2020-07-13;SIM
+1968;M; 71;Unaí;2020-07-15;SIM
+1969;M; 44;Unaí;2020-07-16;Não informado
+1970;M; 55;São Joaquim de Bicas;2020-07-14;SIM
+1971;F; 77;Betim;2020-07-02;SIM
+1972;F; 66;Timóteo;2020-07-17;Não informado
+1973;F; 86;Ipaba;2020-07-17;Não informado
+1974;M; 64;Dom Cavati;2020-07-17;Não informado
+1975;M; 32;Uberaba;2020-07-17;SIM
+1976;M; 79;São Gonçalo do Rio Abaixo;2020-07-08;SIM
+1977;M; 64;Araguari;2020-07-17;SIM
+1978;M; 84;Veríssimo;2020-07-18;SIM
+1979;M; 75;Planura;2020-07-18;SIM
+1980;M; 98;Uberaba;2020-07-18;SIM
+1981;M; 82;Frutal;2020-07-17;SIM
+1982;M; 43;Conceição das Alagoas;2020-07-18;Não informado
+1983;M; 82;Visconde do Rio Branco;2020-07-15;SIM
+1984;F; 80;Juiz de Fora;2020-07-14;SIM
+1985;M; 65;Juiz de Fora;2020-07-14;SIM
+1986;M; 51;Juiz de Fora;2020-07-16;Não informado
+1987;M; 77;Juiz de Fora;2020-07-17;NÃO
+1988;M; 80;Ouro Branco;2020-07-15;SIM
+1989;M;  0;Montes Claros;2020-07-16;Não informado
+1990;F; 88;Governador Valadares;2020-07-07;SIM
+1991;M; 65;Governador Valadares;2020-07-10;SIM
+1992;F; 87;Governador Valadares;2020-07-08;SIM
+1993;F; 67;Governador Valadares;2020-07-10;SIM
+1994;M; 69;Governador Valadares;2020-07-08;SIM
+1995;M; 63;Uberlândia;2020-07-18;SIM
+1996;M; 36;Uberlândia;2020-07-19;NÃO
+1997;F; 75;Uberlândia;2020-07-19;SIM
+1998;F; 50;Passos;2020-07-18;NÃO
+1999;M; 58;Pratápolis;2020-07-19;SIM
+2000;F; 66;Muriaé;2020-06-17;SIM
+2001;F; 52;Uberlândia;2020-07-18;Não informado
+2002;F; 77;Várzea da Palma;2020-07-14;NÃO
+2003;M; 71;Pratápolis;2020-07-20;NÃO
+2004;F; 68;Muriaé;2020-07-15;NÃO
+2005;M; 71;Uberlândia;2020-07-19;SIM
+2006;M; 69;Uberlândia;2020-07-19;NÃO
+2007;M; 45;Uberlândia;2020-07-19;SIM
+2008;M; 66;Espinosa;2020-07-13;SIM
+2009;F; 74;Matias Barbosa;2020-07-14;SIM
+2010;F; 70;Juiz de Fora;2020-07-15;SIM
+2011;M; 63;Lima Duarte;2020-07-15;SIM
+2012;F; 65;Matias Barbosa;2020-07-16;SIM
+2013;M; 69;Juiz de Fora;2020-07-17;SIM
+2014;M; 79;Sarzedo;2020-07-16;SIM
+2015;M; 85;Alfenas;2020-07-16;SIM
+2016;M; 70;Conceição da Aparecida;2020-07-20;SIM
+2017;M; 72;Outros Estados;2020-05-17;SIM
+2018;M; 53;Outros Estados;2020-06-08;SIM
+2019;M; 58;Outros Estados;2020-06-17;SIM
+2020;M;  0;Nova Serrana;2020-07-10;SIM
+2021;M; 82;Nova Serrana;2020-07-05;SIM
+2022;M; 91;Divinópolis;2020-07-03;SIM
+2023;M; 89;Santana do Jacaré;2020-07-03;NÃO
+2024;F; 78;Pará de Minas;2020-07-13;SIM
+2025;M; 89;Pará de Minas;2020-07-07;SIM
+2026;M; 67;Jacutinga;2020-07-19;SIM
+2027;F; 81;Poços de Caldas;2020-07-17;SIM
+2028;F; 88;Borda da Mata;2020-07-17;SIM
+2029;F; 79;Outros Estados;2020-05-07;SIM
+2030;F; 64;Belo Horizonte;2020-07-10;SIM
+2031;F; 82;Belo Horizonte;2020-07-07;SIM
+2032;M; 44;Belo Horizonte;2020-07-15;SIM
+2033;M; 82;Belo Horizonte;2020-07-19;SIM
+2034;F; 84;Belo Horizonte;2020-06-30;SIM
+2035;F; 76;Belo Horizonte;2020-07-14;NÃO
+2036;F; 70;Belo Horizonte;2020-07-15;SIM
+2037;F; 79;Belo Horizonte;2020-07-15;SIM
+2038;M; 70;Belo Horizonte;2020-07-13;SIM
+2039;M; 70;Belo Horizonte;2020-07-08;SIM
+2040;F; 72;Belo Horizonte;2020-07-02;SIM
+2041;M; 56;Belo Horizonte;2020-07-12;SIM
+2042;M; 75;Belo Horizonte;2020-07-14;SIM
+2043;F; 79;Belo Horizonte;2020-07-10;SIM
+2044;M; 67;Belo Horizonte;2020-07-15;SIM
+2045;M; 79;Belo Horizonte;2020-07-16;SIM
+2046;F; 78;Belo Horizonte;2020-07-17;SIM
+2047;M; 87;Belo Horizonte;2020-07-14;SIM
+2048;M; 53;Belo Horizonte;2020-07-17;SIM
+2049;F; 93;Belo Horizonte;2020-07-15;SIM
+2050;F; 65;Belo Horizonte;2020-07-13;SIM
+2051;M; 66;Belo Horizonte;2020-07-16;SIM
+2052;F; 85;Belo Horizonte;2020-07-19;SIM
+2053;M; 72;Belo Horizonte;2020-07-10;SIM
+2054;F; 86;Belo Horizonte;2020-07-12;SIM
+2055;M; 84;Belo Horizonte;2020-07-11;SIM
+2056;F; 82;Belo Horizonte;2020-07-17;SIM
+2057;M; 86;Belo Horizonte;2020-07-19;SIM
+2058;M; 95;Belo Horizonte;2020-07-12;SIM
+2059;M; 74;Belo Horizonte;2020-07-12;SIM
+2060;F; 81;Belo Horizonte;2020-07-10;SIM
+2061;M; 87;Belo Horizonte;2020-07-17;SIM
+2062;M; 55;Belo Horizonte;2020-07-14;SIM
+2063;F; 92;Belo Horizonte;2020-07-16;SIM
+2064;F; 80;Belo Horizonte;2020-07-12;SIM
+2065;F; 63;Baldim;2020-07-18;SIM
+2066;F; 70;Sete Lagoas;2020-07-20;SIM
+2067;F; 75;Leopoldina;2020-07-17;Não informado
+2068;M; 64;Recreio;2020-07-18;Não informado
+2069;F; 56;Cataguases;2020-07-17;Não informado
+2070;F; 89;Cataguases;2020-07-18;Não informado
+2071;M; 61;Frutal;2020-07-11;SIM
+2072;M; 58;Iturama;2020-07-16;Não informado
+2073;M; 76;Santa Juliana;2020-07-17;Não informado
+2074;M; 63;Pirajuba;2020-07-17;Não informado
+2075;M; 67;Santa Juliana;2020-07-18;Não informado
+2076;F; 94;Araxá;2020-07-18;SIM
+2077;M; 54;Uberaba;2020-07-20;SIM
+2078;F; 89;Uberlândia;2020-06-13;SIM
+2079;M; 49;Uberlândia;2020-06-14;SIM
+2080;M; 61;Uberlândia;2020-07-10;SIM
+2081;M; 66;Ipatinga;2020-07-18;SIM
+2082;M; 67;Caratinga;2020-07-16;NÃO
+2083;M; 73;Timóteo;2020-07-19;NÃO
+2084;M; 98;Timóteo;2020-07-20;SIM
+2085;M; 70;Bom Jesus do Galho;2020-07-15;SIM
+2086;M; 56;Coronel Fabriciano;2020-07-19;SIM
+2087;F; 64;Ipatinga;2020-07-18;NÃO
+2088;F; 77;Ipatinga;2020-07-04;NÃO
+2089;M; 85;Timóteo;2020-07-11;SIM
+2090;M; 38;Caratinga;2020-07-12;SIM
+2091;F; 90;Ipatinga;2020-07-13;NÃO
+2092;M; 50;Ponto dos Volantes;2020-07-14;SIM
+2093;F; 85;Novo Oriente de Minas;2020-07-17;SIM
+2094;M; 85;Teófilo Otoni;2020-07-16;SIM
+2095;F; 73;Nanuque;2020-07-19;SIM
+2096;M; 52;Ataléia;2020-07-17;Não informado
+2097;F; 78;Nanuque;2020-07-19;SIM
+2098;M; 88;Fruta de Leite;2020-07-14;Não informado
+2099;M; 85;Montes Claros;2020-07-17;SIM
+2100;M; 85;Espinosa;2020-07-19;SIM
+2101;M; 74;Uberlândia;2020-07-20;SIM
+2102;M; 82;Uberlândia;2020-07-21;SIM
+2103;F; 78;Juiz de Fora;2020-07-17;SIM
+2104;M; 72;Matias Barbosa;2020-07-18;SIM
+2105;M; 81;Betim;2020-07-16;SIM
+2106;M; 52;Betim;2020-07-16;SIM
+2107;F; 66;Betim;2020-07-17;SIM
+2108;M; 60;Betim;2020-07-18;SIM
+2109;F; 40;Betim;2020-07-18;SIM
+2110;M; 70;Betim;2020-07-16;SIM
+2111;M; 50;Betim;2020-07-07;SIM
+2112;F; 74;Betim;2020-07-19;SIM
+2113;F; 51;Betim;2020-07-21;SIM
+2114;F; 61;Contagem;2020-07-11;SIM
+2115;M; 74;Contagem;2020-07-13;SIM
+2116;M; 65;Contagem;2020-07-14;SIM
+2117;F; 78;Contagem;2020-07-15;SIM
+2118;F; 83;Contagem;2020-07-16;SIM
+2119;F; 89;Contagem;2020-07-05;SIM
+2120;M; 71;Contagem;2020-07-01;SIM
+2121;M; 55;Contagem;2020-07-12;Não informado
+2122;M; 75;Esmeraldas;2020-07-12;SIM
+2123;F; 84;Ribeirão das Neves;2020-07-10;SIM
+2124;F; 43;Ribeirão das Neves;2020-07-20;SIM
+2125;M; 38;Ribeirão das Neves;2020-07-17;SIM
+2126;M; 89;Ribeirão das Neves;2020-07-18;SIM
+2127;M; 72;Ribeirão das Neves;2020-06-27;SIM
+2128;M; 76;Ribeirão das Neves;2020-07-13;SIM
+2129;M; 69;Ribeirão das Neves;2020-07-20;SIM
+2130;M; 67;Ribeirão das Neves;2020-07-19;SIM
+2131;M; 82;Ribeirão das Neves;2020-06-23;SIM
+2132;F; 65;Sabará;2020-07-15;SIM
+2133;F; 64;Santa Luzia;2020-07-16;SIM
+2134;F; 68;Itapeva;2020-07-18;SIM
+2135;F; 97;Alfenas;2020-07-16;SIM
+2136;F; 63;Alfenas;2020-07-18;SIM
+2137;M; 65;Alfenas;2020-07-19;SIM
+2138;M; 75;Unaí;2020-07-19;NÃO
+2139;M; 59;Unaí;2020-07-20;SIM
+2140;F; 65;Belo Horizonte;2020-07-02;SIM
+2141;M; 90;Belo Horizonte;2020-07-18;SIM
+2142;M; 71;Belo Horizonte;2020-07-14;SIM
+2143;M; 80;Belo Horizonte;2020-07-19;SIM
+2144;F; 88;Belo Horizonte;2020-07-13;SIM
+2145;M; 72;Belo Horizonte;2020-07-08;SIM
+2146;F; 75;Belo Horizonte;2020-06-23;SIM
+2147;M; 52;Belo Horizonte;2020-07-20;SIM
+2148;F; 68;Belo Horizonte;2020-06-22;SIM
+2149;M; 83;Belo Horizonte;2020-07-14;SIM
+2150;F; 71;Belo Horizonte;2020-07-06;SIM
+2151;M; 81;Belo Horizonte;2020-07-16;SIM
+2152;M; 88;Belo Horizonte;2020-07-15;SIM
+2153;F; 91;Belo Horizonte;2020-07-19;SIM
+2154;M; 41;Belo Horizonte;2020-07-19;SIM
+2155;M; 89;Belo Horizonte;2020-07-20;SIM
+2156;F; 95;Belo Horizonte;2020-07-20;SIM
+2157;M; 93;Belo Horizonte;2020-07-16;SIM
+2158;F; 61;Belo Horizonte;2020-07-20;SIM
+2159;F; 92;Belo Horizonte;2020-07-15;SIM
+2160;F; 89;Riacho dos Machados;2020-07-18;Não informado
+2161;F; 79;Janaúba;2020-07-08;SIM
+2162;F; 78;Ipanema;2020-07-14;SIM
+2163;M; 82;Manhuaçu;2020-07-14;SIM
+2164;M; 69;Matipó;2020-07-16;SIM
+2165;F; 77;Santa Margarida;2020-07-06;SIM
+2166;M; 67;Alto Jequitibá;2020-07-12;SIM
+2167;F; 84;Divinésia;2020-07-19;SIM
+2168;F; 76;Minas Novas;2020-07-19;SIM
+2169;F; 70;Tupaciguara;2020-07-12;NÃO
+2170;M; 77;Tupaciguara;2020-07-18;Não informado
+2171;M; 89;São Francisco;2020-07-16;SIM
+2172;F; 74;Juiz de Fora;2020-07-20;SIM
+2173;M; 96;Juiz de Fora;2020-07-20;SIM
+2174;M; 65;Juiz de Fora;2020-07-21;SIM
+2175;F; 86;Juiz de Fora;2020-07-21;SIM
+2176;M; 90;Campos Altos;2020-07-17;SIM
+2177;F; 61;Iturama;2020-07-16;SIM
+2178;F; 77;Frutal;2020-07-21;SIM
+2179;M; 56;Conceição das Alagoas;2020-07-20;SIM
+2180;M; 77;Itapagipe;2020-07-21;SIM
+2181;M; 68;Conceição das Alagoas;2020-07-18;SIM
+2182;F; 89;Uberaba;2020-07-20;SIM
+2183;M; 83;Uberlândia;2020-07-21;SIM
+2184;M; 54;OUTROS;2020-07-17;SIM
+2185;M; 79;Montes Claros;2020-07-20;SIM
+2186;F; 70;Itapeva;2020-06-30;SIM
+2187;M; 69;Extrema;2020-07-10;SIM
+2188;M; 88;Monte Carmelo;2020-07-17;SIM
+2189;M; 43;Uberlândia;2020-07-21;SIM
+2190;M; 72;Uberlândia;2020-07-21;SIM
+2191;F; 59;Uberlândia;2020-07-22;SIM
+2192;F;  0;Santa Bárbara;2020-07-16;NÃO
+2193;F; 95;Aimorés;2020-07-11;SIM
+2194;M; 66;Ouro Branco;2020-07-21;NÃO
+2195;M; 91;Alfenas;2020-07-18;SIM
+2196;F; 36;Betim;2020-07-15;NÃO
+2197;M; 72;Betim;2020-07-19;SIM
+2198;F; 60;Betim;2020-07-12;SIM
+2199;M; 68;Betim;2020-07-05;SIM
+2200;F; 93;Betim;2020-07-16;SIM
+2201;M; 75;Betim;2020-07-17;SIM
+2202;F; 67;Betim;2020-07-21;SIM
+2203;M; 68;Contagem;2020-07-13;SIM
+2204;M; 39;Belo Horizonte;2020-07-17;SIM
+2205;F; 85;Contagem;2020-07-18;SIM
+2206;M; 82;Contagem;2020-07-15;SIM
+2207;M; 58;Contagem;2020-07-21;Não informado
+2208;F; 80;Contagem;2020-07-13;SIM
+2209;M; 64;Contagem;2020-07-20;SIM
+2210;M; 86;Contagem;2020-07-20;SIM
+2211;M; 81;Contagem;2020-07-21;SIM
+2212;M; 59;Contagem;2020-07-21;SIM
+2213;F; 80;Ibirité;2020-07-03;Não informado
+2214;M; 72;Ibirité;2020-07-17;Não informado
+2215;F; 80;Ibirité;2020-07-17;SIM
+2216;F; 84;Ibirité;2020-07-20;SIM
+2217;F; 67;Ibirité;2020-07-21;SIM
+2218;F; 69;Ibirité;2020-07-21;SIM
+2219;M; 69;Jaboticatubas;2020-07-12;SIM
+2220;M; 77;Mariana;2020-07-17;SIM
+2221;M; 74;Belo Horizonte;2020-07-15;SIM
+2222;F; 39;Belo Horizonte;2020-07-20;SIM
+2223;F; 29;Belo Horizonte;2020-07-15;Não informado
+2224;M; 79;Belo Horizonte;2020-07-08;SIM
+2225;F; 83;Belo Horizonte;2020-07-17;SIM
+2226;F; 66;Belo Horizonte;2020-07-05;SIM
+2227;F; 66;Belo Horizonte;2020-07-20;SIM
+2228;F; 52;Belo Horizonte;2020-07-13;SIM
+2229;F; 82;Belo Horizonte;2020-07-14;SIM
+2230;F; 89;Belo Horizonte;2020-07-20;SIM
+2231;F; 65;Belo Horizonte;2020-07-05;SIM
+2232;M; 63;Belo Horizonte;2020-07-17;SIM
+2233;F; 75;Belo Horizonte;2020-07-15;Não informado
+2234;M; 68;Belo Horizonte;2020-07-17;SIM
+2235;M; 42;Belo Horizonte;2020-07-13;SIM
+2236;M; 89;Belo Horizonte;2020-07-21;SIM
+2237;M; 52;Belo Horizonte;2020-07-07;NÃO
+2238;M; 67;Belo Horizonte;2020-06-29;NÃO
