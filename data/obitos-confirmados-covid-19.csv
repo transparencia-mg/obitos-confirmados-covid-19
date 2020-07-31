@@ -328,7 +328,7 @@
 327;F; 88;Juatuba;2020-05-30;NÃO
 328;F; 69;Contagem;2020-05-24;NÃO
 329;F; 98;Uberaba;2020-06-02;SIM
-330;M; 34;Ubá;2020-05-28;Não informado
+358;F; 63;Itajubá;2020-06-03;SIM
 331;F; 74;Belo Horizonte;2020-06-03;SIM
 332;F; 59;Nova Serrana;2020-06-03;SIM
 333;F; 87;Timóteo;2020-06-03;SIM
@@ -356,7 +356,7 @@
 355;M; 76;Juiz de Fora;2020-06-01;SIM
 356;F; 54;Lagoa da Prata;2020-06-01;SIM
 357;F; 45;Divinópolis;2020-05-31;SIM
-358;F; 63;Itajubá;2020-06-03;SIM
+485;M; 53;Itajubá;2020-06-12;SIM
 359;F; 43;Bom Jesus do Galho;2020-06-04;SIM
 360;M; 72;Santana do Paraíso;2020-06-04;SIM
 361;F; 69;Nova Lima;2020-06-03;SIM
@@ -459,7 +459,7 @@
 458;F; 66;Ipatinga;2020-06-07;SIM
 459;F; 73;Uberlândia;2020-06-11;SIM
 460;F; 70;Senador Modestino Gonçalves;2020-06-11;SIM
-461;M; 63;Ubá;2020-06-06;SIM
+2497;F; 66;Itajubá;2020-07-24;SIM
 462;M; 69;Uberaba;2020-06-10;Não informado
 463;M; 58;Governador Valadares;2020-06-02;Não informado
 464;M; 93;Belo Oriente;2020-06-12;SIM
@@ -483,7 +483,7 @@
 482;M; 94;Uberlândia;2020-06-02;SIM
 483;M; 45;Uberlândia;2020-06-04;NÃO
 484;M; 50;Carandaí;2020-06-11;NÃO
-485;M; 53;Itajubá;2020-06-12;SIM
+2625;F; 84;Itajubá;2020-07-25;SIM
 486;M; 74;Uberlândia;2020-06-09;SIM
 487;M; 80;Córrego do Bom Jesus;2020-05-24;SIM
 488;F; 58;Betim;2020-06-14;SIM
@@ -558,7 +558,7 @@
 557;F; 64;Passos;2020-06-10;SIM
 558;M; 69;Juiz de Fora;2020-06-11;SIM
 559;M; 79;Coronel Pacheco;2020-06-12;SIM
-560;M; 22;Ubá;2020-06-15;SIM
+330;M; 34;Ubá;2020-05-28;Não informado
 561;M; 65;Belo Horizonte;2020-06-10;Não informado
 562;M; 47;Campina Verde;2020-06-13;SIM
 563;M; 89;Carangola;2020-06-12;SIM
@@ -1687,7 +1687,7 @@
 1686;F; 61;Muriaé;2020-07-08;SIM
 1687;M; 42;Conceição das Alagoas;2020-07-11;SIM
 1688;F; 73;São Geraldo;2020-06-10;SIM
-1689;M; 59;Ubá;2020-06-23;SIM
+461;M; 63;Ubá;2020-06-06;SIM
 1690;F; 94;Tabuleiro;2020-07-08;SIM
 1691;F; 36;Matias Barbosa;2020-07-04;SIM
 1692;M; 47;Juiz de Fora;2020-07-10;SIM
@@ -1698,7 +1698,7 @@
 1697;M; 55;Juiz de Fora;2020-07-10;SIM
 1698;M; 66;Juiz de Fora;2020-07-12;SIM
 1699;F; 77;Juiz de Fora;2020-07-13;SIM
-1700;M; 75;Ubá;2020-05-22;SIM
+560;M; 22;Ubá;2020-06-15;SIM
 1701;M; 38;Salinas;2020-07-09;Não informado
 1702;F; 67;Salinas;2020-07-09;SIM
 1703;M; 91;Taiobeiras;2020-07-11;Não informado
@@ -2241,7 +2241,7 @@
 2240;F; 46;Iturama;2020-07-18;SIM
 2241;M; 75;Araxá;2020-07-19;SIM
 2242;M; 63;Iturama;2020-07-20;Não informado
-2243;F; 87;Ubá;2020-07-20;SIM
+1689;M; 59;Ubá;2020-06-23;SIM
 2244;F; 72;Uberlândia;2020-07-20;SIM
 2245;M; 41;Uberlândia;2020-07-22;SIM
 2246;M; 38;Uberlândia;2020-07-23;NÃO
@@ -2294,7 +2294,7 @@
 2293;F; 72;Santa Luzia;2020-07-20;SIM
 2294;F; 59;Vespasiano;2020-07-14;SIM
 2295;F; 46;Vespasiano;2020-07-13;SIM
-2296;M; 81;Ubá;2020-07-20;SIM
+1700;M; 75;Ubá;2020-05-22;SIM
 2297;F; 79;Muriaé;2020-07-21;NÃO
 2298;M; 63;Almenara;2020-07-19;SIM
 2299;M; 84;Rubim;2020-07-18;NÃO
@@ -2495,7 +2495,7 @@
 2494;M; 65;Borda da Mata;2020-07-24;Não informado
 2495;M; 86;Camanducaia;2020-07-25;SIM
 2496;F; 61;Camanducaia;2020-07-25;NÃO
-2497;F; 66;Itajubá;2020-07-24;SIM
+2243;F; 87;Raul Soares;2020-07-20;SIM
 2498;M; 60;Paraisópolis;2020-07-24;SIM
 2499;M; 56;Alfenas;2020-07-25;SIM
 2500;F; 63;Três Corações;2020-07-21;SIM
@@ -2559,7 +2559,7 @@
 2558;F; 54;Alfenas;2020-07-26;SIM
 2559;F; 62;Muriaé;2020-07-22;SIM
 2560;M; 80;Senador Firmino;2020-07-21;SIM
-2561;M; 79;Eugenopolis;2020-07-22;SIM
+2561;M; 79;Eugenópolis;2020-07-22;SIM
 2562;M; 69;Muriaé;2020-07-16;SIM
 2563;F; 63;Uberaba;2020-07-26;SIM
 2564;M; 68;Uberaba;2020-07-27;SIM
@@ -2623,7 +2623,7 @@
 2622;M; 69;Uberlândia;2020-07-28;SIM
 2623;F; 66;Uberlândia;2020-07-28;NÃO
 2624;M; 79;Uberlândia;2020-07-29;SIM
-2625;F; 84;Itajubá;2020-07-25;SIM
+2296;M; 81;Ubá;2020-07-20;SIM
 2626;M; 87;Brazópolis;2020-07-25;NÃO
 2627;M; 80;Borda da Mata;2020-07-21;SIM
 2628;M; 78;Borda da Mata;2020-07-20;SIM
@@ -2691,3 +2691,80 @@
 2690;F; 89;Belo Horizonte;NA;SIM
 2691;M; 89;Belo Horizonte;NA;SIM
 2692;M; 74;Belo Horizonte;NA;SIM
+2693;F; 74;Brasília de Minas;2020-07-29;SIM
+2694;M; 73;Outros Estados;2020-07-24;SIM
+2695;M; 72;Muriaé;2020-07-17;SIM
+2696;F; 67;Corinto;2020-07-29;SIM
+2697;M; 89;Conquista;2020-07-28;SIM
+2698;F; 80;Itaú de Minas;NA;SIM
+2699;M; 80;Itaú de Minas;2020-07-28;SIM
+2700;M; 94;São João Batista do Glória;2020-07-28;Não informado
+2701;F; 79;Itabira;2020-07-24;SIM
+2702;F; 83;Juiz de Fora;2020-07-28;SIM
+2703;M; 72;Araguari;2020-07-28;SIM
+2704;M; 92;Outros Estados;2020-07-29;SIM
+2705;M; 92;Uberlândia;2020-07-30;SIM
+2706;F; 75;Itabira;2020-07-28;SIM
+2707;M; 60;Cambuí;2020-07-29;SIM
+2708;F; 84;Andradas;2020-07-29;SIM
+2709;F; 88;Governador Valadares;2020-07-24;SIM
+2710;M; 87;Governador Valadares;2020-07-21;SIM
+2711;M; 80;Governador Valadares;2020-07-23;SIM
+2712;F; 61;Governador Valadares;2020-07-24;Não informado
+2713;F; 62;Governador Valadares;2020-07-26;SIM
+2714;M; 68;Nova Módica;2020-07-22;SIM
+2715;M; 75;Periquito;2020-07-24;Não informado
+2716;F; 87;Ipatinga;2020-07-29;SIM
+2717;F; 72;Santana do Paraíso;2020-07-29;SIM
+2718;F; 81;Córrego Novo;2020-07-29;SIM
+2719;F; 52;Ibirité;2020-07-22;NÃO
+2720;M; 63;Ibirité;2020-07-26;SIM
+2721;F; 38;Ibirité;2020-07-27;NÃO
+2722;F; 80;Ibirité;2020-07-27;SIM
+2723;F; 56;Ibirité;2020-07-10;SIM
+2724;F; 70;Ibirité;2020-07-17;SIM
+2725;F; 81;Contagem;2020-07-28;SIM
+2726;M; 77;Contagem;2020-07-28;SIM
+2727;M; 80;Contagem;2020-07-27;SIM
+2728;F; 23;Contagem;2020-07-27;SIM
+2729;M; 89;Contagem;2020-07-18;SIM
+2730;F; 53;Contagem;2020-07-27;SIM
+2731;F; 76;Contagem;2020-07-28;SIM
+2732;F; 89;Contagem;2020-07-15;SIM
+2733;M; 89;Contagem;2020-07-17;Não informado
+2734;F; 93;Ouro Preto;2020-07-26;Não informado
+2735;F; 90;Betim;2020-07-29;SIM
+2736;F; 89;Pedra Azul;2020-07-28;SIM
+2737;M; 85;Montes Claros;2020-07-28;SIM
+2738;M; 56;Ponte Nova;2020-07-23;SIM
+2739;M; 75;Muriaé;2020-07-24;SIM
+2740;F; 49;Belo Horizonte;NA;SIM
+2741;M; 75;Belo Horizonte;NA;SIM
+2742;F; 75;Belo Horizonte;NA;SIM
+2743;M; 57;Belo Horizonte;NA;SIM
+2744;M; 57;Belo Horizonte;NA;SIM
+2745;F; 84;Belo Horizonte;NA;NÃO
+2746;M; 81;Belo Horizonte;NA;SIM
+2747;F; 70;Belo Horizonte;NA;NÃO
+2748;M; 80;Belo Horizonte;NA;SIM
+2749;F; 86;Belo Horizonte;NA;SIM
+2750;M; 76;Belo Horizonte;NA;SIM
+2751;M; 78;Belo Horizonte;NA;SIM
+2752;F; 80;Belo Horizonte;NA;SIM
+2753;M; 71;Belo Horizonte;NA;SIM
+2754;M; 83;Belo Horizonte;NA;SIM
+2755;F; 92;Belo Horizonte;NA;SIM
+2756;F; 95;Belo Horizonte;NA;SIM
+2757;M; 59;Belo Horizonte;NA;NÃO
+2758;F; 80;Belo Horizonte;NA;SIM
+2759;M; 71;Belo Horizonte;NA;SIM
+2760;M; 68;Belo Horizonte;NA;SIM
+2761;F; 67;Belo Horizonte;NA;SIM
+2762;F; 97;Belo Horizonte;NA;SIM
+2763;M; 89;Belo Horizonte;NA;SIM
+2764;M; 82;Belo Horizonte;NA;SIM
+2765;M; 51;Belo Horizonte;NA;SIM
+2766;F; 57;Belo Horizonte;NA;SIM
+2767;F; 58;Belo Horizonte;NA;SIM
+2768;M; 38;Belo Horizonte;NA;SIM
+2769;F; 76;Belo Horizonte;NA;SIM
