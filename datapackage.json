@@ -72,5 +72,21 @@
   "title": "Óbitos confirmados por COVID-19",
   "description": "Contém arquivo com o resumo diário dos óbitos ocorridos em Minas Gerais em decorrência da COVID-19.",
   "private": "false",
-  "state": "active"
+  "state": "archived",
+  "version": "0.1.0",
+  "Frequência de atualização":"descontinuado desde agosto de 2020",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Diretoria Central de Transparência Ativa",
+      "role": "maintainer",
+      "email": "transparencia@cge.mg.gov.br"
+    }
+  ]
 }
